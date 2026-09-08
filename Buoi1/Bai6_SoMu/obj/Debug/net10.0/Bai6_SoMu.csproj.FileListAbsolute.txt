@@ -1,0 +1,14 @@
+F:\NNLTC#\Buoi1\Bai6_SoMu\bin\Debug\net10.0\Bai6_SoMu.exe
+F:\NNLTC#\Buoi1\Bai6_SoMu\bin\Debug\net10.0\Bai6_SoMu.deps.json
+F:\NNLTC#\Buoi1\Bai6_SoMu\bin\Debug\net10.0\Bai6_SoMu.runtimeconfig.json
+F:\NNLTC#\Buoi1\Bai6_SoMu\bin\Debug\net10.0\Bai6_SoMu.dll
+F:\NNLTC#\Buoi1\Bai6_SoMu\bin\Debug\net10.0\Bai6_SoMu.pdb
+F:\NNLTC#\Buoi1\Bai6_SoMu\obj\Debug\net10.0\Bai6_SoMu.GeneratedMSBuildEditorConfig.editorconfig
+F:\NNLTC#\Buoi1\Bai6_SoMu\obj\Debug\net10.0\Bai6_SoMu.AssemblyInfoInputs.cache
+F:\NNLTC#\Buoi1\Bai6_SoMu\obj\Debug\net10.0\Bai6_SoMu.AssemblyInfo.cs
+F:\NNLTC#\Buoi1\Bai6_SoMu\obj\Debug\net10.0\Bai6_SoMu.csproj.CoreCompileInputs.cache
+F:\NNLTC#\Buoi1\Bai6_SoMu\obj\Debug\net10.0\Bai6_SoMu.dll
+F:\NNLTC#\Buoi1\Bai6_SoMu\obj\Debug\net10.0\refint\Bai6_SoMu.dll
+F:\NNLTC#\Buoi1\Bai6_SoMu\obj\Debug\net10.0\Bai6_SoMu.pdb
+F:\NNLTC#\Buoi1\Bai6_SoMu\obj\Debug\net10.0\Bai6_SoMu.genruntimeconfig.cache
+F:\NNLTC#\Buoi1\Bai6_SoMu\obj\Debug\net10.0\ref\Bai6_SoMu.dll

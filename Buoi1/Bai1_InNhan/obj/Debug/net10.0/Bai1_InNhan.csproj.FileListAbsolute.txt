@@ -1,0 +1,14 @@
+F:\NNLTC#\Buoi1\Bai1_InNhan\bin\Debug\net10.0\Bai1_InNhan.exe
+F:\NNLTC#\Buoi1\Bai1_InNhan\bin\Debug\net10.0\Bai1_InNhan.deps.json
+F:\NNLTC#\Buoi1\Bai1_InNhan\bin\Debug\net10.0\Bai1_InNhan.runtimeconfig.json
+F:\NNLTC#\Buoi1\Bai1_InNhan\bin\Debug\net10.0\Bai1_InNhan.dll
+F:\NNLTC#\Buoi1\Bai1_InNhan\bin\Debug\net10.0\Bai1_InNhan.pdb
+F:\NNLTC#\Buoi1\Bai1_InNhan\obj\Debug\net10.0\Bai1_InNhan.GeneratedMSBuildEditorConfig.editorconfig
+F:\NNLTC#\Buoi1\Bai1_InNhan\obj\Debug\net10.0\Bai1_InNhan.AssemblyInfoInputs.cache
+F:\NNLTC#\Buoi1\Bai1_InNhan\obj\Debug\net10.0\Bai1_InNhan.AssemblyInfo.cs
+F:\NNLTC#\Buoi1\Bai1_InNhan\obj\Debug\net10.0\Bai1_InNhan.csproj.CoreCompileInputs.cache
+F:\NNLTC#\Buoi1\Bai1_InNhan\obj\Debug\net10.0\Bai1_InNhan.dll
+F:\NNLTC#\Buoi1\Bai1_InNhan\obj\Debug\net10.0\refint\Bai1_InNhan.dll
+F:\NNLTC#\Buoi1\Bai1_InNhan\obj\Debug\net10.0\Bai1_InNhan.pdb
+F:\NNLTC#\Buoi1\Bai1_InNhan\obj\Debug\net10.0\Bai1_InNhan.genruntimeconfig.cache
+F:\NNLTC#\Buoi1\Bai1_InNhan\obj\Debug\net10.0\ref\Bai1_InNhan.dll

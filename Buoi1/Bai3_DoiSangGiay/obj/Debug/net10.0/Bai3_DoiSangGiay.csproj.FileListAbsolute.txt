@@ -1,0 +1,14 @@
+F:\NNLTC#\Buoi1\Bai3_DoiSangGiay\bin\Debug\net10.0\Bai3_DoiSangGiay.exe
+F:\NNLTC#\Buoi1\Bai3_DoiSangGiay\bin\Debug\net10.0\Bai3_DoiSangGiay.deps.json
+F:\NNLTC#\Buoi1\Bai3_DoiSangGiay\bin\Debug\net10.0\Bai3_DoiSangGiay.runtimeconfig.json
+F:\NNLTC#\Buoi1\Bai3_DoiSangGiay\bin\Debug\net10.0\Bai3_DoiSangGiay.dll
+F:\NNLTC#\Buoi1\Bai3_DoiSangGiay\bin\Debug\net10.0\Bai3_DoiSangGiay.pdb
+F:\NNLTC#\Buoi1\Bai3_DoiSangGiay\obj\Debug\net10.0\Bai3_DoiSangGiay.GeneratedMSBuildEditorConfig.editorconfig
+F:\NNLTC#\Buoi1\Bai3_DoiSangGiay\obj\Debug\net10.0\Bai3_DoiSangGiay.AssemblyInfoInputs.cache
+F:\NNLTC#\Buoi1\Bai3_DoiSangGiay\obj\Debug\net10.0\Bai3_DoiSangGiay.AssemblyInfo.cs
+F:\NNLTC#\Buoi1\Bai3_DoiSangGiay\obj\Debug\net10.0\Bai3_DoiSangGiay.csproj.CoreCompileInputs.cache
+F:\NNLTC#\Buoi1\Bai3_DoiSangGiay\obj\Debug\net10.0\Bai3_DoiSangGiay.dll
+F:\NNLTC#\Buoi1\Bai3_DoiSangGiay\obj\Debug\net10.0\refint\Bai3_DoiSangGiay.dll
+F:\NNLTC#\Buoi1\Bai3_DoiSangGiay\obj\Debug\net10.0\Bai3_DoiSangGiay.pdb
+F:\NNLTC#\Buoi1\Bai3_DoiSangGiay\obj\Debug\net10.0\Bai3_DoiSangGiay.genruntimeconfig.cache
+F:\NNLTC#\Buoi1\Bai3_DoiSangGiay\obj\Debug\net10.0\ref\Bai3_DoiSangGiay.dll
