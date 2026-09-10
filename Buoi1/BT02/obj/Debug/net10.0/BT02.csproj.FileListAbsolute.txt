@@ -1,0 +1,11 @@
+C:\Workspace\NNLTCsharp\Buoi01\BT02\obj\Debug\net10.0\BT02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\NNLTCsharp\Buoi01\BT02\obj\Debug\net10.0\BT02.AssemblyInfoInputs.cache
+C:\Workspace\NNLTCsharp\Buoi01\BT02\obj\Debug\net10.0\BT02.AssemblyInfo.cs
+C:\Workspace\NNLTCsharp\Buoi01\BT02\obj\Debug\net10.0\BT02.csproj.CoreCompileInputs.cache
+C:\Workspace\NNLTCsharp\Buoi01\BT02\bin\Debug\net10.0\BT02.deps.json
+C:\Workspace\NNLTCsharp\Buoi01\BT02\bin\Debug\net10.0\BT02.dll
+C:\Workspace\NNLTCsharp\Buoi01\BT02\bin\Debug\net10.0\BT02.pdb
+C:\Workspace\NNLTCsharp\Buoi01\BT02\obj\Debug\net10.0\BT02.dll
+C:\Workspace\NNLTCsharp\Buoi01\BT02\obj\Debug\net10.0\refint\BT02.dll
+C:\Workspace\NNLTCsharp\Buoi01\BT02\obj\Debug\net10.0\BT02.pdb
+C:\Workspace\NNLTCsharp\Buoi01\BT02\obj\Debug\net10.0\ref\BT02.dll

@@ -1,0 +1,14 @@
+C:\Workspace\NNLTCsharp\Buoi01\BT05\bin\Debug\net10.0\BT05.exe
+C:\Workspace\NNLTCsharp\Buoi01\BT05\bin\Debug\net10.0\BT05.deps.json
+C:\Workspace\NNLTCsharp\Buoi01\BT05\bin\Debug\net10.0\BT05.runtimeconfig.json
+C:\Workspace\NNLTCsharp\Buoi01\BT05\bin\Debug\net10.0\BT05.dll
+C:\Workspace\NNLTCsharp\Buoi01\BT05\bin\Debug\net10.0\BT05.pdb
+C:\Workspace\NNLTCsharp\Buoi01\BT05\obj\Debug\net10.0\BT05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\NNLTCsharp\Buoi01\BT05\obj\Debug\net10.0\BT05.AssemblyInfoInputs.cache
+C:\Workspace\NNLTCsharp\Buoi01\BT05\obj\Debug\net10.0\BT05.AssemblyInfo.cs
+C:\Workspace\NNLTCsharp\Buoi01\BT05\obj\Debug\net10.0\BT05.csproj.CoreCompileInputs.cache
+C:\Workspace\NNLTCsharp\Buoi01\BT05\obj\Debug\net10.0\BT05.dll
+C:\Workspace\NNLTCsharp\Buoi01\BT05\obj\Debug\net10.0\refint\BT05.dll
+C:\Workspace\NNLTCsharp\Buoi01\BT05\obj\Debug\net10.0\BT05.pdb
+C:\Workspace\NNLTCsharp\Buoi01\BT05\obj\Debug\net10.0\BT05.genruntimeconfig.cache
+C:\Workspace\NNLTCsharp\Buoi01\BT05\obj\Debug\net10.0\ref\BT05.dll
