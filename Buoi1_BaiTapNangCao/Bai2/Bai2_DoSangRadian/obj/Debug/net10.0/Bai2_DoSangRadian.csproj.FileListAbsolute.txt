@@ -1,0 +1,15 @@
+F:\NNLTC#\Buoi1_BaiTapNangCao\Bai2\Bai2_DoSangRadian\bin\Debug\net10.0\Bai2_DoSangRadian.exe
+F:\NNLTC#\Buoi1_BaiTapNangCao\Bai2\Bai2_DoSangRadian\bin\Debug\net10.0\Bai2_DoSangRadian.deps.json
+F:\NNLTC#\Buoi1_BaiTapNangCao\Bai2\Bai2_DoSangRadian\bin\Debug\net10.0\Bai2_DoSangRadian.runtimeconfig.json
+F:\NNLTC#\Buoi1_BaiTapNangCao\Bai2\Bai2_DoSangRadian\bin\Debug\net10.0\Bai2_DoSangRadian.dll
+F:\NNLTC#\Buoi1_BaiTapNangCao\Bai2\Bai2_DoSangRadian\bin\Debug\net10.0\Bai2_DoSangRadian.pdb
+F:\NNLTC#\Buoi1_BaiTapNangCao\Bai2\Bai2_DoSangRadian\obj\Debug\net10.0\Bai2_DoSangRadian.GeneratedMSBuildEditorConfig.editorconfig
+F:\NNLTC#\Buoi1_BaiTapNangCao\Bai2\Bai2_DoSangRadian\obj\Debug\net10.0\Bai2_DoSangRadian.AssemblyInfoInputs.cache
+F:\NNLTC#\Buoi1_BaiTapNangCao\Bai2\Bai2_DoSangRadian\obj\Debug\net10.0\Bai2_DoSangRadian.AssemblyInfo.cs
+F:\NNLTC#\Buoi1_BaiTapNangCao\Bai2\Bai2_DoSangRadian\obj\Debug\net10.0\Bai2_DoSangRadian.csproj.CoreCompileInputs.cache
+F:\NNLTC#\Buoi1_BaiTapNangCao\Bai2\Bai2_DoSangRadian\obj\Debug\net10.0\Bai2_DoSangRadian.sourcelink.json
+F:\NNLTC#\Buoi1_BaiTapNangCao\Bai2\Bai2_DoSangRadian\obj\Debug\net10.0\Bai2_DoSangRadian.dll
+F:\NNLTC#\Buoi1_BaiTapNangCao\Bai2\Bai2_DoSangRadian\obj\Debug\net10.0\refint\Bai2_DoSangRadian.dll
+F:\NNLTC#\Buoi1_BaiTapNangCao\Bai2\Bai2_DoSangRadian\obj\Debug\net10.0\Bai2_DoSangRadian.pdb
+F:\NNLTC#\Buoi1_BaiTapNangCao\Bai2\Bai2_DoSangRadian\obj\Debug\net10.0\Bai2_DoSangRadian.genruntimeconfig.cache
+F:\NNLTC#\Buoi1_BaiTapNangCao\Bai2\Bai2_DoSangRadian\obj\Debug\net10.0\ref\Bai2_DoSangRadian.dll
