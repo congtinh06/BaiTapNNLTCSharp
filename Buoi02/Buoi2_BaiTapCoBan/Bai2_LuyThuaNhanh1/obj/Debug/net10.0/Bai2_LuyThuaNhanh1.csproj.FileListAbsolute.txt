@@ -1,0 +1,14 @@
+E:\Downloads\code\C#\Buoi2_BaiTapCoBan\Bai2_LuyThuaNhanh1\bin\Debug\net10.0\Bai2_LuyThuaNhanh1.exe
+E:\Downloads\code\C#\Buoi2_BaiTapCoBan\Bai2_LuyThuaNhanh1\bin\Debug\net10.0\Bai2_LuyThuaNhanh1.deps.json
+E:\Downloads\code\C#\Buoi2_BaiTapCoBan\Bai2_LuyThuaNhanh1\bin\Debug\net10.0\Bai2_LuyThuaNhanh1.runtimeconfig.json
+E:\Downloads\code\C#\Buoi2_BaiTapCoBan\Bai2_LuyThuaNhanh1\bin\Debug\net10.0\Bai2_LuyThuaNhanh1.dll
+E:\Downloads\code\C#\Buoi2_BaiTapCoBan\Bai2_LuyThuaNhanh1\bin\Debug\net10.0\Bai2_LuyThuaNhanh1.pdb
+E:\Downloads\code\C#\Buoi2_BaiTapCoBan\Bai2_LuyThuaNhanh1\obj\Debug\net10.0\Bai2_LuyThuaNhanh1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Downloads\code\C#\Buoi2_BaiTapCoBan\Bai2_LuyThuaNhanh1\obj\Debug\net10.0\Bai2_LuyThuaNhanh1.AssemblyInfoInputs.cache
+E:\Downloads\code\C#\Buoi2_BaiTapCoBan\Bai2_LuyThuaNhanh1\obj\Debug\net10.0\Bai2_LuyThuaNhanh1.AssemblyInfo.cs
+E:\Downloads\code\C#\Buoi2_BaiTapCoBan\Bai2_LuyThuaNhanh1\obj\Debug\net10.0\Bai2_LuyThuaNhanh1.csproj.CoreCompileInputs.cache
+E:\Downloads\code\C#\Buoi2_BaiTapCoBan\Bai2_LuyThuaNhanh1\obj\Debug\net10.0\Bai2_LuyThuaNhanh1.dll
+E:\Downloads\code\C#\Buoi2_BaiTapCoBan\Bai2_LuyThuaNhanh1\obj\Debug\net10.0\refint\Bai2_LuyThuaNhanh1.dll
+E:\Downloads\code\C#\Buoi2_BaiTapCoBan\Bai2_LuyThuaNhanh1\obj\Debug\net10.0\Bai2_LuyThuaNhanh1.pdb
+E:\Downloads\code\C#\Buoi2_BaiTapCoBan\Bai2_LuyThuaNhanh1\obj\Debug\net10.0\Bai2_LuyThuaNhanh1.genruntimeconfig.cache
+E:\Downloads\code\C#\Buoi2_BaiTapCoBan\Bai2_LuyThuaNhanh1\obj\Debug\net10.0\ref\Bai2_LuyThuaNhanh1.dll

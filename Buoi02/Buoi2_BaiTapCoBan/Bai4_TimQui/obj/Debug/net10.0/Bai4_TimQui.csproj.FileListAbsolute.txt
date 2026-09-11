@@ -1,0 +1,14 @@
+E:\Downloads\code\C#\Buoi2_BaiTapCoBan\Bai4_TimQui\bin\Debug\net10.0\Bai4_TimQui.exe
+E:\Downloads\code\C#\Buoi2_BaiTapCoBan\Bai4_TimQui\bin\Debug\net10.0\Bai4_TimQui.deps.json
+E:\Downloads\code\C#\Buoi2_BaiTapCoBan\Bai4_TimQui\bin\Debug\net10.0\Bai4_TimQui.runtimeconfig.json
+E:\Downloads\code\C#\Buoi2_BaiTapCoBan\Bai4_TimQui\bin\Debug\net10.0\Bai4_TimQui.dll
+E:\Downloads\code\C#\Buoi2_BaiTapCoBan\Bai4_TimQui\bin\Debug\net10.0\Bai4_TimQui.pdb
+E:\Downloads\code\C#\Buoi2_BaiTapCoBan\Bai4_TimQui\obj\Debug\net10.0\Bai4_TimQui.GeneratedMSBuildEditorConfig.editorconfig
+E:\Downloads\code\C#\Buoi2_BaiTapCoBan\Bai4_TimQui\obj\Debug\net10.0\Bai4_TimQui.AssemblyInfoInputs.cache
+E:\Downloads\code\C#\Buoi2_BaiTapCoBan\Bai4_TimQui\obj\Debug\net10.0\Bai4_TimQui.AssemblyInfo.cs
+E:\Downloads\code\C#\Buoi2_BaiTapCoBan\Bai4_TimQui\obj\Debug\net10.0\Bai4_TimQui.csproj.CoreCompileInputs.cache
+E:\Downloads\code\C#\Buoi2_BaiTapCoBan\Bai4_TimQui\obj\Debug\net10.0\Bai4_TimQui.dll
+E:\Downloads\code\C#\Buoi2_BaiTapCoBan\Bai4_TimQui\obj\Debug\net10.0\refint\Bai4_TimQui.dll
+E:\Downloads\code\C#\Buoi2_BaiTapCoBan\Bai4_TimQui\obj\Debug\net10.0\Bai4_TimQui.pdb
+E:\Downloads\code\C#\Buoi2_BaiTapCoBan\Bai4_TimQui\obj\Debug\net10.0\Bai4_TimQui.genruntimeconfig.cache
+E:\Downloads\code\C#\Buoi2_BaiTapCoBan\Bai4_TimQui\obj\Debug\net10.0\ref\Bai4_TimQui.dll

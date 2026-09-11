@@ -1,0 +1,14 @@
+E:\Downloads\code\C#\Buoi2_BaiTapCoBan\Bai5_HaiChuSoCuoi\bin\Debug\net10.0\Bai5_HaiChuSoCuoi.exe
+E:\Downloads\code\C#\Buoi2_BaiTapCoBan\Bai5_HaiChuSoCuoi\bin\Debug\net10.0\Bai5_HaiChuSoCuoi.deps.json
+E:\Downloads\code\C#\Buoi2_BaiTapCoBan\Bai5_HaiChuSoCuoi\bin\Debug\net10.0\Bai5_HaiChuSoCuoi.runtimeconfig.json
+E:\Downloads\code\C#\Buoi2_BaiTapCoBan\Bai5_HaiChuSoCuoi\bin\Debug\net10.0\Bai5_HaiChuSoCuoi.dll
+E:\Downloads\code\C#\Buoi2_BaiTapCoBan\Bai5_HaiChuSoCuoi\bin\Debug\net10.0\Bai5_HaiChuSoCuoi.pdb
+E:\Downloads\code\C#\Buoi2_BaiTapCoBan\Bai5_HaiChuSoCuoi\obj\Debug\net10.0\Bai5_HaiChuSoCuoi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Downloads\code\C#\Buoi2_BaiTapCoBan\Bai5_HaiChuSoCuoi\obj\Debug\net10.0\Bai5_HaiChuSoCuoi.AssemblyInfoInputs.cache
+E:\Downloads\code\C#\Buoi2_BaiTapCoBan\Bai5_HaiChuSoCuoi\obj\Debug\net10.0\Bai5_HaiChuSoCuoi.AssemblyInfo.cs
+E:\Downloads\code\C#\Buoi2_BaiTapCoBan\Bai5_HaiChuSoCuoi\obj\Debug\net10.0\Bai5_HaiChuSoCuoi.csproj.CoreCompileInputs.cache
+E:\Downloads\code\C#\Buoi2_BaiTapCoBan\Bai5_HaiChuSoCuoi\obj\Debug\net10.0\Bai5_HaiChuSoCuoi.dll
+E:\Downloads\code\C#\Buoi2_BaiTapCoBan\Bai5_HaiChuSoCuoi\obj\Debug\net10.0\refint\Bai5_HaiChuSoCuoi.dll
+E:\Downloads\code\C#\Buoi2_BaiTapCoBan\Bai5_HaiChuSoCuoi\obj\Debug\net10.0\Bai5_HaiChuSoCuoi.pdb
+E:\Downloads\code\C#\Buoi2_BaiTapCoBan\Bai5_HaiChuSoCuoi\obj\Debug\net10.0\Bai5_HaiChuSoCuoi.genruntimeconfig.cache
+E:\Downloads\code\C#\Buoi2_BaiTapCoBan\Bai5_HaiChuSoCuoi\obj\Debug\net10.0\ref\Bai5_HaiChuSoCuoi.dll

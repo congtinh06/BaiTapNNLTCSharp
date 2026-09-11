@@ -1,0 +1,14 @@
+E:\Downloads\code\C#\Buoi2_BaiTapCoBan\Bai1_TinhTongDoan\bin\Debug\net10.0\Bai1_TinhTongDoan.exe
+E:\Downloads\code\C#\Buoi2_BaiTapCoBan\Bai1_TinhTongDoan\bin\Debug\net10.0\Bai1_TinhTongDoan.deps.json
+E:\Downloads\code\C#\Buoi2_BaiTapCoBan\Bai1_TinhTongDoan\bin\Debug\net10.0\Bai1_TinhTongDoan.runtimeconfig.json
+E:\Downloads\code\C#\Buoi2_BaiTapCoBan\Bai1_TinhTongDoan\bin\Debug\net10.0\Bai1_TinhTongDoan.dll
+E:\Downloads\code\C#\Buoi2_BaiTapCoBan\Bai1_TinhTongDoan\bin\Debug\net10.0\Bai1_TinhTongDoan.pdb
+E:\Downloads\code\C#\Buoi2_BaiTapCoBan\Bai1_TinhTongDoan\obj\Debug\net10.0\Bai1_TinhTongDoan.GeneratedMSBuildEditorConfig.editorconfig
+E:\Downloads\code\C#\Buoi2_BaiTapCoBan\Bai1_TinhTongDoan\obj\Debug\net10.0\Bai1_TinhTongDoan.AssemblyInfoInputs.cache
+E:\Downloads\code\C#\Buoi2_BaiTapCoBan\Bai1_TinhTongDoan\obj\Debug\net10.0\Bai1_TinhTongDoan.AssemblyInfo.cs
+E:\Downloads\code\C#\Buoi2_BaiTapCoBan\Bai1_TinhTongDoan\obj\Debug\net10.0\Bai1_TinhTongDoan.csproj.CoreCompileInputs.cache
+E:\Downloads\code\C#\Buoi2_BaiTapCoBan\Bai1_TinhTongDoan\obj\Debug\net10.0\Bai1_TinhTongDoan.dll
+E:\Downloads\code\C#\Buoi2_BaiTapCoBan\Bai1_TinhTongDoan\obj\Debug\net10.0\refint\Bai1_TinhTongDoan.dll
+E:\Downloads\code\C#\Buoi2_BaiTapCoBan\Bai1_TinhTongDoan\obj\Debug\net10.0\Bai1_TinhTongDoan.pdb
+E:\Downloads\code\C#\Buoi2_BaiTapCoBan\Bai1_TinhTongDoan\obj\Debug\net10.0\Bai1_TinhTongDoan.genruntimeconfig.cache
+E:\Downloads\code\C#\Buoi2_BaiTapCoBan\Bai1_TinhTongDoan\obj\Debug\net10.0\ref\Bai1_TinhTongDoan.dll
