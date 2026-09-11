@@ -3,7 +3,7 @@
     public class HinhTron
     {
         private const double PI = 3.14;
-        public double BanKinh {get; set;}
+        public double BanKinh { get; set; }
 
         public HinhTron(double banKinh)
         {
