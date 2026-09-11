@@ -1,0 +1,14 @@
+C:\Workspace\NNLTCsharp\Buoi02\Buoi02_BaiTapNangCao\BT07_DienTichToDam\bin\Debug\net10.0\BT07_DienTichToDam.exe
+C:\Workspace\NNLTCsharp\Buoi02\Buoi02_BaiTapNangCao\BT07_DienTichToDam\bin\Debug\net10.0\BT07_DienTichToDam.deps.json
+C:\Workspace\NNLTCsharp\Buoi02\Buoi02_BaiTapNangCao\BT07_DienTichToDam\bin\Debug\net10.0\BT07_DienTichToDam.runtimeconfig.json
+C:\Workspace\NNLTCsharp\Buoi02\Buoi02_BaiTapNangCao\BT07_DienTichToDam\bin\Debug\net10.0\BT07_DienTichToDam.dll
+C:\Workspace\NNLTCsharp\Buoi02\Buoi02_BaiTapNangCao\BT07_DienTichToDam\bin\Debug\net10.0\BT07_DienTichToDam.pdb
+C:\Workspace\NNLTCsharp\Buoi02\Buoi02_BaiTapNangCao\BT07_DienTichToDam\obj\Debug\net10.0\BT07_DienTichToDam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\NNLTCsharp\Buoi02\Buoi02_BaiTapNangCao\BT07_DienTichToDam\obj\Debug\net10.0\BT07_DienTichToDam.AssemblyInfoInputs.cache
+C:\Workspace\NNLTCsharp\Buoi02\Buoi02_BaiTapNangCao\BT07_DienTichToDam\obj\Debug\net10.0\BT07_DienTichToDam.AssemblyInfo.cs
+C:\Workspace\NNLTCsharp\Buoi02\Buoi02_BaiTapNangCao\BT07_DienTichToDam\obj\Debug\net10.0\BT07_DienTichToDam.csproj.CoreCompileInputs.cache
+C:\Workspace\NNLTCsharp\Buoi02\Buoi02_BaiTapNangCao\BT07_DienTichToDam\obj\Debug\net10.0\BT07_DienTichToDam.dll
+C:\Workspace\NNLTCsharp\Buoi02\Buoi02_BaiTapNangCao\BT07_DienTichToDam\obj\Debug\net10.0\refint\BT07_DienTichToDam.dll
+C:\Workspace\NNLTCsharp\Buoi02\Buoi02_BaiTapNangCao\BT07_DienTichToDam\obj\Debug\net10.0\BT07_DienTichToDam.pdb
+C:\Workspace\NNLTCsharp\Buoi02\Buoi02_BaiTapNangCao\BT07_DienTichToDam\obj\Debug\net10.0\BT07_DienTichToDam.genruntimeconfig.cache
+C:\Workspace\NNLTCsharp\Buoi02\Buoi02_BaiTapNangCao\BT07_DienTichToDam\obj\Debug\net10.0\ref\BT07_DienTichToDam.dll

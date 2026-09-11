@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SU+/GRM8mZ4=",
+  "dgSpecHash": "50hVM87V9Q4=",
   "success": true,
-  "projectFilePath": "C:\\Workspace\\NNLTCsharp\\Buoi02\\Buoi02_BaiTapNangCao\\BT04_ChuVIDaGiacDeuTest\\BT04_ChuVIDaGiacDeuTest.csproj",
+  "projectFilePath": "C:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi02\\Buoi02_BaiTapNangCao\\BT04_ChuVIDaGiacDeuTest\\BT04_ChuVIDaGiacDeuTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\coverlet.collector\\6.0.4\\coverlet.collector.6.0.4.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.codecoverage\\17.14.1\\microsoft.codecoverage.17.14.1.nupkg.sha512",

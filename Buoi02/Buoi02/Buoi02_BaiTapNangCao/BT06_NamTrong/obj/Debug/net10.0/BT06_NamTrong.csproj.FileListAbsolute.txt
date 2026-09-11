@@ -1,0 +1,14 @@
+C:\Workspace\NNLTCsharp\Buoi02\Buoi02_BaiTapNangCao\BT06_NamTrong\bin\Debug\net10.0\BT06_NamTrong.exe
+C:\Workspace\NNLTCsharp\Buoi02\Buoi02_BaiTapNangCao\BT06_NamTrong\bin\Debug\net10.0\BT06_NamTrong.deps.json
+C:\Workspace\NNLTCsharp\Buoi02\Buoi02_BaiTapNangCao\BT06_NamTrong\bin\Debug\net10.0\BT06_NamTrong.runtimeconfig.json
+C:\Workspace\NNLTCsharp\Buoi02\Buoi02_BaiTapNangCao\BT06_NamTrong\bin\Debug\net10.0\BT06_NamTrong.dll
+C:\Workspace\NNLTCsharp\Buoi02\Buoi02_BaiTapNangCao\BT06_NamTrong\bin\Debug\net10.0\BT06_NamTrong.pdb
+C:\Workspace\NNLTCsharp\Buoi02\Buoi02_BaiTapNangCao\BT06_NamTrong\obj\Debug\net10.0\BT06_NamTrong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\NNLTCsharp\Buoi02\Buoi02_BaiTapNangCao\BT06_NamTrong\obj\Debug\net10.0\BT06_NamTrong.AssemblyInfoInputs.cache
+C:\Workspace\NNLTCsharp\Buoi02\Buoi02_BaiTapNangCao\BT06_NamTrong\obj\Debug\net10.0\BT06_NamTrong.AssemblyInfo.cs
+C:\Workspace\NNLTCsharp\Buoi02\Buoi02_BaiTapNangCao\BT06_NamTrong\obj\Debug\net10.0\BT06_NamTrong.csproj.CoreCompileInputs.cache
+C:\Workspace\NNLTCsharp\Buoi02\Buoi02_BaiTapNangCao\BT06_NamTrong\obj\Debug\net10.0\BT06_NamTrong.dll
+C:\Workspace\NNLTCsharp\Buoi02\Buoi02_BaiTapNangCao\BT06_NamTrong\obj\Debug\net10.0\refint\BT06_NamTrong.dll
+C:\Workspace\NNLTCsharp\Buoi02\Buoi02_BaiTapNangCao\BT06_NamTrong\obj\Debug\net10.0\BT06_NamTrong.pdb
+C:\Workspace\NNLTCsharp\Buoi02\Buoi02_BaiTapNangCao\BT06_NamTrong\obj\Debug\net10.0\BT06_NamTrong.genruntimeconfig.cache
+C:\Workspace\NNLTCsharp\Buoi02\Buoi02_BaiTapNangCao\BT06_NamTrong\obj\Debug\net10.0\ref\BT06_NamTrong.dll

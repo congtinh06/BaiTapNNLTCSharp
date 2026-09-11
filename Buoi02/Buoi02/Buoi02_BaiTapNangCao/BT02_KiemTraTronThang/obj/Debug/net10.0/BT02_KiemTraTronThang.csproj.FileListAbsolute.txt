@@ -1,0 +1,14 @@
+C:\Workspace\NNLTCsharp\Buoi02\Buoi02_BaiTapNangCao\BT02_KiemTraTronThang\bin\Debug\net10.0\BT02_KiemTraTronThang.exe
+C:\Workspace\NNLTCsharp\Buoi02\Buoi02_BaiTapNangCao\BT02_KiemTraTronThang\bin\Debug\net10.0\BT02_KiemTraTronThang.deps.json
+C:\Workspace\NNLTCsharp\Buoi02\Buoi02_BaiTapNangCao\BT02_KiemTraTronThang\bin\Debug\net10.0\BT02_KiemTraTronThang.runtimeconfig.json
+C:\Workspace\NNLTCsharp\Buoi02\Buoi02_BaiTapNangCao\BT02_KiemTraTronThang\bin\Debug\net10.0\BT02_KiemTraTronThang.dll
+C:\Workspace\NNLTCsharp\Buoi02\Buoi02_BaiTapNangCao\BT02_KiemTraTronThang\bin\Debug\net10.0\BT02_KiemTraTronThang.pdb
+C:\Workspace\NNLTCsharp\Buoi02\Buoi02_BaiTapNangCao\BT02_KiemTraTronThang\obj\Debug\net10.0\BT02_KiemTraTronThang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\NNLTCsharp\Buoi02\Buoi02_BaiTapNangCao\BT02_KiemTraTronThang\obj\Debug\net10.0\BT02_KiemTraTronThang.AssemblyInfoInputs.cache
+C:\Workspace\NNLTCsharp\Buoi02\Buoi02_BaiTapNangCao\BT02_KiemTraTronThang\obj\Debug\net10.0\BT02_KiemTraTronThang.AssemblyInfo.cs
+C:\Workspace\NNLTCsharp\Buoi02\Buoi02_BaiTapNangCao\BT02_KiemTraTronThang\obj\Debug\net10.0\BT02_KiemTraTronThang.csproj.CoreCompileInputs.cache
+C:\Workspace\NNLTCsharp\Buoi02\Buoi02_BaiTapNangCao\BT02_KiemTraTronThang\obj\Debug\net10.0\BT02_KiemTraTronThang.dll
+C:\Workspace\NNLTCsharp\Buoi02\Buoi02_BaiTapNangCao\BT02_KiemTraTronThang\obj\Debug\net10.0\refint\BT02_KiemTraTronThang.dll
+C:\Workspace\NNLTCsharp\Buoi02\Buoi02_BaiTapNangCao\BT02_KiemTraTronThang\obj\Debug\net10.0\BT02_KiemTraTronThang.pdb
+C:\Workspace\NNLTCsharp\Buoi02\Buoi02_BaiTapNangCao\BT02_KiemTraTronThang\obj\Debug\net10.0\BT02_KiemTraTronThang.genruntimeconfig.cache
+C:\Workspace\NNLTCsharp\Buoi02\Buoi02_BaiTapNangCao\BT02_KiemTraTronThang\obj\Debug\net10.0\ref\BT02_KiemTraTronThang.dll

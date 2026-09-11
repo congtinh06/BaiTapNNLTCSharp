@@ -1,0 +1,14 @@
+C:\Workspace\NNLTCsharp\Buoi02\Buoi02_BaiTapNangCao\BT01_SoNgayThang\bin\Debug\net10.0\BT01_SoNgayThang.exe
+C:\Workspace\NNLTCsharp\Buoi02\Buoi02_BaiTapNangCao\BT01_SoNgayThang\bin\Debug\net10.0\BT01_SoNgayThang.deps.json
+C:\Workspace\NNLTCsharp\Buoi02\Buoi02_BaiTapNangCao\BT01_SoNgayThang\bin\Debug\net10.0\BT01_SoNgayThang.runtimeconfig.json
+C:\Workspace\NNLTCsharp\Buoi02\Buoi02_BaiTapNangCao\BT01_SoNgayThang\bin\Debug\net10.0\BT01_SoNgayThang.dll
+C:\Workspace\NNLTCsharp\Buoi02\Buoi02_BaiTapNangCao\BT01_SoNgayThang\bin\Debug\net10.0\BT01_SoNgayThang.pdb
+C:\Workspace\NNLTCsharp\Buoi02\Buoi02_BaiTapNangCao\BT01_SoNgayThang\obj\Debug\net10.0\BT01_SoNgayThang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\NNLTCsharp\Buoi02\Buoi02_BaiTapNangCao\BT01_SoNgayThang\obj\Debug\net10.0\BT01_SoNgayThang.AssemblyInfoInputs.cache
+C:\Workspace\NNLTCsharp\Buoi02\Buoi02_BaiTapNangCao\BT01_SoNgayThang\obj\Debug\net10.0\BT01_SoNgayThang.AssemblyInfo.cs
+C:\Workspace\NNLTCsharp\Buoi02\Buoi02_BaiTapNangCao\BT01_SoNgayThang\obj\Debug\net10.0\BT01_SoNgayThang.csproj.CoreCompileInputs.cache
+C:\Workspace\NNLTCsharp\Buoi02\Buoi02_BaiTapNangCao\BT01_SoNgayThang\obj\Debug\net10.0\BT01_SoNgayThang.dll
+C:\Workspace\NNLTCsharp\Buoi02\Buoi02_BaiTapNangCao\BT01_SoNgayThang\obj\Debug\net10.0\refint\BT01_SoNgayThang.dll
+C:\Workspace\NNLTCsharp\Buoi02\Buoi02_BaiTapNangCao\BT01_SoNgayThang\obj\Debug\net10.0\BT01_SoNgayThang.pdb
+C:\Workspace\NNLTCsharp\Buoi02\Buoi02_BaiTapNangCao\BT01_SoNgayThang\obj\Debug\net10.0\BT01_SoNgayThang.genruntimeconfig.cache
+C:\Workspace\NNLTCsharp\Buoi02\Buoi02_BaiTapNangCao\BT01_SoNgayThang\obj\Debug\net10.0\ref\BT01_SoNgayThang.dll

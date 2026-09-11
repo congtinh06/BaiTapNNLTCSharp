@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi02\\Buoi02_BaiTapNangCao\\BT03_ChuViDienTichTamGiacTest\\BT03_ChuViDienTichTamGiacTest.csproj": {}
+    "C:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi02\\Buoi02_BaiTapNangCao\\BT03_ChuViDienTichTamGiacTest\\BT03_ChuViDienTichTamGiacTest.csproj": {}
   },
   "projects": {
-    "c:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi02\\Buoi02_BaiTapNangCao\\BT03_ChuViDienTichTamGiacTest\\BT03_ChuViDienTichTamGiacTest.csproj": {
+    "C:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi02\\Buoi02_BaiTapNangCao\\BT03_ChuViDienTichTamGiacTest\\BT03_ChuViDienTichTamGiacTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi02\\Buoi02_BaiTapNangCao\\BT03_ChuViDienTichTamGiacTest\\BT03_ChuViDienTichTamGiacTest.csproj",
+        "projectUniqueName": "C:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi02\\Buoi02_BaiTapNangCao\\BT03_ChuViDienTichTamGiacTest\\BT03_ChuViDienTichTamGiacTest.csproj",
         "projectName": "BT03_ChuViDienTichTamGiacTest",
-        "projectPath": "c:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi02\\Buoi02_BaiTapNangCao\\BT03_ChuViDienTichTamGiacTest\\BT03_ChuViDienTichTamGiacTest.csproj",
+        "projectPath": "C:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi02\\Buoi02_BaiTapNangCao\\BT03_ChuViDienTichTamGiacTest\\BT03_ChuViDienTichTamGiacTest.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "c:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi02\\Buoi02_BaiTapNangCao\\BT03_ChuViDienTichTamGiacTest\\obj\\",
+        "outputPath": "C:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi02\\Buoi02_BaiTapNangCao\\BT03_ChuViDienTichTamGiacTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -27,8 +27,8 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "c:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi02\\Buoi02_BaiTapNangCao\\BT03_ChuViDienTichTamGiac\\BT03_ChuViDienTichTamGiac.csproj": {
-                "projectPath": "c:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi02\\Buoi02_BaiTapNangCao\\BT03_ChuViDienTichTamGiac\\BT03_ChuViDienTichTamGiac.csproj"
+              "C:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi02\\Buoi02_BaiTapNangCao\\BT03_ChuVIDienTichTamGiac\\BT03_ChuViDienTichTamGiac.csproj": {
+                "projectPath": "C:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi02\\Buoi02_BaiTapNangCao\\BT03_ChuVIDienTichTamGiac\\BT03_ChuViDienTichTamGiac.csproj"
               }
             }
           }
@@ -361,14 +361,14 @@
         }
       }
     },
-    "c:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi02\\Buoi02_BaiTapNangCao\\BT03_ChuViDienTichTamGiac\\BT03_ChuViDienTichTamGiac.csproj": {
+    "C:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi02\\Buoi02_BaiTapNangCao\\BT03_ChuVIDienTichTamGiac\\BT03_ChuViDienTichTamGiac.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi02\\Buoi02_BaiTapNangCao\\BT03_ChuViDienTichTamGiac\\BT03_ChuViDienTichTamGiac.csproj",
+        "projectUniqueName": "C:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi02\\Buoi02_BaiTapNangCao\\BT03_ChuVIDienTichTamGiac\\BT03_ChuViDienTichTamGiac.csproj",
         "projectName": "BT03_ChuViDienTichTamGiac",
-        "projectPath": "c:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi02\\Buoi02_BaiTapNangCao\\BT03_ChuViDienTichTamGiac\\BT03_ChuViDienTichTamGiac.csproj",
+        "projectPath": "C:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi02\\Buoi02_BaiTapNangCao\\BT03_ChuVIDienTichTamGiac\\BT03_ChuViDienTichTamGiac.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "c:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi02\\Buoi02_BaiTapNangCao\\BT03_ChuViDienTichTamGiac\\obj\\",
+        "outputPath": "C:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi02\\Buoi02_BaiTapNangCao\\BT03_ChuVIDienTichTamGiac\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"

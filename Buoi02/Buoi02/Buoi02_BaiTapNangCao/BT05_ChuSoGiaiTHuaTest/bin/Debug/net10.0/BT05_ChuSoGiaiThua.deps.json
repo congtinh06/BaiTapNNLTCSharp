@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "BT05_ChuSoGiaiThua/1.0.0": {
+        "runtime": {
+          "BT05_ChuSoGiaiThua.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BT05_ChuSoGiaiThua/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

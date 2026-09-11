@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Workspace\\NNLTCsharp\\Buoi02\\Buoi02_BaiTapNangCao\\BT01_SoNgayThang\\BT01_SoNgayThang.csproj",
+      "projectUniqueName": "C:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi02\\Buoi02_BaiTapNangCao\\BT01_SoNgayThang\\BT01_SoNgayThang.csproj",
       "projectName": "BT01_SoNgayThang",
-      "projectPath": "C:\\Workspace\\NNLTCsharp\\Buoi02\\Buoi02_BaiTapNangCao\\BT01_SoNgayThang\\BT01_SoNgayThang.csproj",
+      "projectPath": "C:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi02\\Buoi02_BaiTapNangCao\\BT01_SoNgayThang\\BT01_SoNgayThang.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Workspace\\NNLTCsharp\\Buoi02\\Buoi02_BaiTapNangCao\\BT01_SoNgayThang\\obj\\",
+      "outputPath": "C:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi02\\Buoi02_BaiTapNangCao\\BT01_SoNgayThang\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"

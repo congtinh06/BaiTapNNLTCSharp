@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BT04_ChuVIDaGiacDeuTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d766e0687e6bae34f36e2f6f9cbe1b21119dd165")]
 [assembly: System.Reflection.AssemblyProductAttribute("BT04_ChuVIDaGiacDeuTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BT04_ChuVIDaGiacDeuTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

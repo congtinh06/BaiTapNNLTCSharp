@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Workspace\\NNLTCsharp\\Buoi02\\Buoi02_BaiTapNangCao\\BT02_KiemTraTronThang\\BT02_KiemTraTronThang.csproj",
+      "projectUniqueName": "C:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi02\\Buoi02_BaiTapNangCao\\BT02_KiemTraTronThang\\BT02_KiemTraTronThang.csproj",
       "projectName": "BT02_KiemTraTronThang",
-      "projectPath": "C:\\Workspace\\NNLTCsharp\\Buoi02\\Buoi02_BaiTapNangCao\\BT02_KiemTraTronThang\\BT02_KiemTraTronThang.csproj",
+      "projectPath": "C:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi02\\Buoi02_BaiTapNangCao\\BT02_KiemTraTronThang\\BT02_KiemTraTronThang.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Workspace\\NNLTCsharp\\Buoi02\\Buoi02_BaiTapNangCao\\BT02_KiemTraTronThang\\obj\\",
+      "outputPath": "C:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi02\\Buoi02_BaiTapNangCao\\BT02_KiemTraTronThang\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"

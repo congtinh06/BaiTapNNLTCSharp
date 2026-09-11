@@ -1,0 +1,14 @@
+C:\Workspace\NNLTCsharp\Buoi02\Buoi02_BaiTapNangCao\BT05_ChuSoGiaiThua\bin\Debug\net10.0\BT05_ChuSoGiaiThua.exe
+C:\Workspace\NNLTCsharp\Buoi02\Buoi02_BaiTapNangCao\BT05_ChuSoGiaiThua\bin\Debug\net10.0\BT05_ChuSoGiaiThua.deps.json
+C:\Workspace\NNLTCsharp\Buoi02\Buoi02_BaiTapNangCao\BT05_ChuSoGiaiThua\bin\Debug\net10.0\BT05_ChuSoGiaiThua.runtimeconfig.json
+C:\Workspace\NNLTCsharp\Buoi02\Buoi02_BaiTapNangCao\BT05_ChuSoGiaiThua\bin\Debug\net10.0\BT05_ChuSoGiaiThua.dll
+C:\Workspace\NNLTCsharp\Buoi02\Buoi02_BaiTapNangCao\BT05_ChuSoGiaiThua\bin\Debug\net10.0\BT05_ChuSoGiaiThua.pdb
+C:\Workspace\NNLTCsharp\Buoi02\Buoi02_BaiTapNangCao\BT05_ChuSoGiaiThua\obj\Debug\net10.0\BT05_ChuSoGiaiThua.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\NNLTCsharp\Buoi02\Buoi02_BaiTapNangCao\BT05_ChuSoGiaiThua\obj\Debug\net10.0\BT05_ChuSoGiaiThua.AssemblyInfoInputs.cache
+C:\Workspace\NNLTCsharp\Buoi02\Buoi02_BaiTapNangCao\BT05_ChuSoGiaiThua\obj\Debug\net10.0\BT05_ChuSoGiaiThua.AssemblyInfo.cs
+C:\Workspace\NNLTCsharp\Buoi02\Buoi02_BaiTapNangCao\BT05_ChuSoGiaiThua\obj\Debug\net10.0\BT05_ChuSoGiaiThua.csproj.CoreCompileInputs.cache
+C:\Workspace\NNLTCsharp\Buoi02\Buoi02_BaiTapNangCao\BT05_ChuSoGiaiThua\obj\Debug\net10.0\BT05_ChuSoGiaiThua.dll
+C:\Workspace\NNLTCsharp\Buoi02\Buoi02_BaiTapNangCao\BT05_ChuSoGiaiThua\obj\Debug\net10.0\refint\BT05_ChuSoGiaiThua.dll
+C:\Workspace\NNLTCsharp\Buoi02\Buoi02_BaiTapNangCao\BT05_ChuSoGiaiThua\obj\Debug\net10.0\BT05_ChuSoGiaiThua.pdb
+C:\Workspace\NNLTCsharp\Buoi02\Buoi02_BaiTapNangCao\BT05_ChuSoGiaiThua\obj\Debug\net10.0\BT05_ChuSoGiaiThua.genruntimeconfig.cache
+C:\Workspace\NNLTCsharp\Buoi02\Buoi02_BaiTapNangCao\BT05_ChuSoGiaiThua\obj\Debug\net10.0\ref\BT05_ChuSoGiaiThua.dll
