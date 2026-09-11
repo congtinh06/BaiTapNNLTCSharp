@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\NNLTC#\\Buoi1\\Bai3_DoiSangGiay\\Bai3_DoiSangGiay.csproj": {}
+    "F:\\NNLTC#\\Buoi1\\Buoi1_BaiTapCoBan\\Bai3_DoiSangGiay\\Bai3_DoiSangGiay.csproj": {}
   },
   "projects": {
-    "F:\\NNLTC#\\Buoi1\\Bai3_DoiSangGiay\\Bai3_DoiSangGiay.csproj": {
+    "F:\\NNLTC#\\Buoi1\\Buoi1_BaiTapCoBan\\Bai3_DoiSangGiay\\Bai3_DoiSangGiay.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\NNLTC#\\Buoi1\\Bai3_DoiSangGiay\\Bai3_DoiSangGiay.csproj",
+        "projectUniqueName": "F:\\NNLTC#\\Buoi1\\Buoi1_BaiTapCoBan\\Bai3_DoiSangGiay\\Bai3_DoiSangGiay.csproj",
         "projectName": "Bai3_DoiSangGiay",
-        "projectPath": "F:\\NNLTC#\\Buoi1\\Bai3_DoiSangGiay\\Bai3_DoiSangGiay.csproj",
+        "projectPath": "F:\\NNLTC#\\Buoi1\\Buoi1_BaiTapCoBan\\Bai3_DoiSangGiay\\Bai3_DoiSangGiay.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "F:\\NNLTC#\\Buoi1\\Bai3_DoiSangGiay\\obj\\",
+        "outputPath": "F:\\NNLTC#\\Buoi1\\Buoi1_BaiTapCoBan\\Bai3_DoiSangGiay\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config"

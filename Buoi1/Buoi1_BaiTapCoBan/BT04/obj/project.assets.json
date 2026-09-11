@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ASUS\\.nuget\\packages\\": {}
+    "C:\\Users\\LENOVO\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Workspace\\NNLTCsharp\\Buoi01\\BT04\\BT04.csproj",
+      "projectUniqueName": "F:\\NNLTC#\\Buoi1\\Buoi1_BaiTapCoBan\\BT04\\BT04.csproj",
       "projectName": "BT04",
-      "projectPath": "C:\\Workspace\\NNLTCsharp\\Buoi01\\BT04\\BT04.csproj",
-      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Workspace\\NNLTCsharp\\Buoi01\\BT04\\obj\\",
+      "projectPath": "F:\\NNLTC#\\Buoi1\\Buoi1_BaiTapCoBan\\BT04\\BT04.csproj",
+      "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
+      "outputPath": "F:\\NNLTC#\\Buoi1\\Buoi1_BaiTapCoBan\\BT04\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\NNLTC#\\Buoi1_BaiTapNangCao\\Bai3\\Bai3_HamSo1Test\\Bai3_HamSo1Test.csproj": {}
+    "F:\\NNLTC#\\Buoi1\\Buoi1_BaiTapNangCao\\Bai3\\Bai3_HamSo1Test\\Bai3_HamSo1Test.csproj": {}
   },
   "projects": {
-    "F:\\NNLTC#\\Buoi1_BaiTapNangCao\\Bai3\\Bai3_HamSo1Test\\Bai3_HamSo1Test.csproj": {
+    "F:\\NNLTC#\\Buoi1\\Buoi1_BaiTapNangCao\\Bai3\\Bai3_HamSo1Test\\Bai3_HamSo1Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\NNLTC#\\Buoi1_BaiTapNangCao\\Bai3\\Bai3_HamSo1Test\\Bai3_HamSo1Test.csproj",
+        "projectUniqueName": "F:\\NNLTC#\\Buoi1\\Buoi1_BaiTapNangCao\\Bai3\\Bai3_HamSo1Test\\Bai3_HamSo1Test.csproj",
         "projectName": "Bai3_HamSo1Test",
-        "projectPath": "F:\\NNLTC#\\Buoi1_BaiTapNangCao\\Bai3\\Bai3_HamSo1Test\\Bai3_HamSo1Test.csproj",
+        "projectPath": "F:\\NNLTC#\\Buoi1\\Buoi1_BaiTapNangCao\\Bai3\\Bai3_HamSo1Test\\Bai3_HamSo1Test.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "F:\\NNLTC#\\Buoi1_BaiTapNangCao\\Bai3\\Bai3_HamSo1Test\\obj\\",
+        "outputPath": "F:\\NNLTC#\\Buoi1\\Buoi1_BaiTapNangCao\\Bai3\\Bai3_HamSo1Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -27,8 +27,8 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "F:\\NNLTC#\\Buoi1_BaiTapNangCao\\Bai3\\Bai3_HamSo1\\Bai3_HamSo1.csproj": {
-                "projectPath": "F:\\NNLTC#\\Buoi1_BaiTapNangCao\\Bai3\\Bai3_HamSo1\\Bai3_HamSo1.csproj"
+              "F:\\NNLTC#\\Buoi1\\Buoi1_BaiTapNangCao\\Bai3\\Bai3_HamSo1\\Bai3_HamSo1.csproj": {
+                "projectPath": "F:\\NNLTC#\\Buoi1\\Buoi1_BaiTapNangCao\\Bai3\\Bai3_HamSo1\\Bai3_HamSo1.csproj"
               }
             }
           }
@@ -361,14 +361,14 @@
         }
       }
     },
-    "F:\\NNLTC#\\Buoi1_BaiTapNangCao\\Bai3\\Bai3_HamSo1\\Bai3_HamSo1.csproj": {
+    "F:\\NNLTC#\\Buoi1\\Buoi1_BaiTapNangCao\\Bai3\\Bai3_HamSo1\\Bai3_HamSo1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\NNLTC#\\Buoi1_BaiTapNangCao\\Bai3\\Bai3_HamSo1\\Bai3_HamSo1.csproj",
+        "projectUniqueName": "F:\\NNLTC#\\Buoi1\\Buoi1_BaiTapNangCao\\Bai3\\Bai3_HamSo1\\Bai3_HamSo1.csproj",
         "projectName": "Bai3_HamSo1",
-        "projectPath": "F:\\NNLTC#\\Buoi1_BaiTapNangCao\\Bai3\\Bai3_HamSo1\\Bai3_HamSo1.csproj",
+        "projectPath": "F:\\NNLTC#\\Buoi1\\Buoi1_BaiTapNangCao\\Bai3\\Bai3_HamSo1\\Bai3_HamSo1.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "F:\\NNLTC#\\Buoi1_BaiTapNangCao\\Bai3\\Bai3_HamSo1\\obj\\",
+        "outputPath": "F:\\NNLTC#\\Buoi1\\Buoi1_BaiTapNangCao\\Bai3\\Bai3_HamSo1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\NNLTC#\\Buoi1_BaiTapNangCao\\Bai4\\Bai4_TinhCan\\Bai4_TinhCan.csproj",
+      "projectUniqueName": "F:\\NNLTC#\\Buoi1\\Buoi1_BaiTapNangCao\\Bai4\\Bai4_TinhCan\\Bai4_TinhCan.csproj",
       "projectName": "Bai4_TinhCan",
-      "projectPath": "F:\\NNLTC#\\Buoi1_BaiTapNangCao\\Bai4\\Bai4_TinhCan\\Bai4_TinhCan.csproj",
+      "projectPath": "F:\\NNLTC#\\Buoi1\\Buoi1_BaiTapNangCao\\Bai4\\Bai4_TinhCan\\Bai4_TinhCan.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "F:\\NNLTC#\\Buoi1_BaiTapNangCao\\Bai4\\Bai4_TinhCan\\obj\\",
+      "outputPath": "F:\\NNLTC#\\Buoi1\\Buoi1_BaiTapNangCao\\Bai4\\Bai4_TinhCan\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config"

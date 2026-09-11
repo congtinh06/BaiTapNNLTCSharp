@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\NNLTC#\\Buoi1\\Bai6_SoMu\\Bai6_SoMu.csproj": {}
+    "F:\\NNLTC#\\Buoi1\\Buoi1_BaiTapCoBan\\Bai6_SoMu\\Bai6_SoMu.csproj": {}
   },
   "projects": {
-    "F:\\NNLTC#\\Buoi1\\Bai6_SoMu\\Bai6_SoMu.csproj": {
+    "F:\\NNLTC#\\Buoi1\\Buoi1_BaiTapCoBan\\Bai6_SoMu\\Bai6_SoMu.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\NNLTC#\\Buoi1\\Bai6_SoMu\\Bai6_SoMu.csproj",
+        "projectUniqueName": "F:\\NNLTC#\\Buoi1\\Buoi1_BaiTapCoBan\\Bai6_SoMu\\Bai6_SoMu.csproj",
         "projectName": "Bai6_SoMu",
-        "projectPath": "F:\\NNLTC#\\Buoi1\\Bai6_SoMu\\Bai6_SoMu.csproj",
+        "projectPath": "F:\\NNLTC#\\Buoi1\\Buoi1_BaiTapCoBan\\Bai6_SoMu\\Bai6_SoMu.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "F:\\NNLTC#\\Buoi1\\Bai6_SoMu\\obj\\",
+        "outputPath": "F:\\NNLTC#\\Buoi1\\Buoi1_BaiTapCoBan\\Bai6_SoMu\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config"

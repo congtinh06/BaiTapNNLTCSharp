@@ -935,11 +935,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\NNLTC#\\Buoi1\\Bai6_SoMuTest\\Bai6_SoMuTest.csproj",
+      "projectUniqueName": "F:\\NNLTC#\\Buoi1\\Buoi1_BaiTapCoBan\\Bai6_SoMuTest\\Bai6_SoMuTest.csproj",
       "projectName": "Bai6_SoMuTest",
-      "projectPath": "F:\\NNLTC#\\Buoi1\\Bai6_SoMuTest\\Bai6_SoMuTest.csproj",
+      "projectPath": "F:\\NNLTC#\\Buoi1\\Buoi1_BaiTapCoBan\\Bai6_SoMuTest\\Bai6_SoMuTest.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "F:\\NNLTC#\\Buoi1\\Bai6_SoMuTest\\obj\\",
+      "outputPath": "F:\\NNLTC#\\Buoi1\\Buoi1_BaiTapCoBan\\Bai6_SoMuTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -955,8 +955,8 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "F:\\NNLTC#\\Buoi1\\Bai6_SoMu\\Bai6_SoMu.csproj": {
-              "projectPath": "F:\\NNLTC#\\Buoi1\\Bai6_SoMu\\Bai6_SoMu.csproj"
+            "F:\\NNLTC#\\Buoi1\\Buoi1_BaiTapCoBan\\Bai6_SoMu\\Bai6_SoMu.csproj": {
+              "projectPath": "F:\\NNLTC#\\Buoi1\\Buoi1_BaiTapCoBan\\Bai6_SoMu\\Bai6_SoMu.csproj"
             }
           }
         }

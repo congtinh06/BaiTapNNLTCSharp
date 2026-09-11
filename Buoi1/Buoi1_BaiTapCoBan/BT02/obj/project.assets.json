@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\NNLTC#\\Buoi1\\BT02\\BT02.csproj",
+      "projectUniqueName": "F:\\NNLTC#\\Buoi1\\Buoi1_BaiTapCoBan\\BT02\\BT02.csproj",
       "projectName": "BT02",
-      "projectPath": "F:\\NNLTC#\\Buoi1\\BT02\\BT02.csproj",
+      "projectPath": "F:\\NNLTC#\\Buoi1\\Buoi1_BaiTapCoBan\\BT02\\BT02.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "F:\\NNLTC#\\Buoi1\\BT02\\obj\\",
+      "outputPath": "F:\\NNLTC#\\Buoi1\\Buoi1_BaiTapCoBan\\BT02\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config"

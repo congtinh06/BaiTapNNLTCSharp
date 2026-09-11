@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\NNLTC#\\Buoi1_BaiTapNangCao\\Bai4\\Bai4_TinhCanTest\\Bai4_TinhCanTest.csproj": {}
+    "F:\\NNLTC#\\Buoi1\\Buoi1_BaiTapNangCao\\Bai4\\Bai4_TinhCanTest\\Bai4_TinhCanTest.csproj": {}
   },
   "projects": {
-    "F:\\NNLTC#\\Buoi1_BaiTapNangCao\\Bai4\\Bai4_TinhCanTest\\Bai4_TinhCanTest.csproj": {
+    "F:\\NNLTC#\\Buoi1\\Buoi1_BaiTapNangCao\\Bai4\\Bai4_TinhCanTest\\Bai4_TinhCanTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\NNLTC#\\Buoi1_BaiTapNangCao\\Bai4\\Bai4_TinhCanTest\\Bai4_TinhCanTest.csproj",
+        "projectUniqueName": "F:\\NNLTC#\\Buoi1\\Buoi1_BaiTapNangCao\\Bai4\\Bai4_TinhCanTest\\Bai4_TinhCanTest.csproj",
         "projectName": "Bai4_TinhCanTest",
-        "projectPath": "F:\\NNLTC#\\Buoi1_BaiTapNangCao\\Bai4\\Bai4_TinhCanTest\\Bai4_TinhCanTest.csproj",
+        "projectPath": "F:\\NNLTC#\\Buoi1\\Buoi1_BaiTapNangCao\\Bai4\\Bai4_TinhCanTest\\Bai4_TinhCanTest.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "F:\\NNLTC#\\Buoi1_BaiTapNangCao\\Bai4\\Bai4_TinhCanTest\\obj\\",
+        "outputPath": "F:\\NNLTC#\\Buoi1\\Buoi1_BaiTapNangCao\\Bai4\\Bai4_TinhCanTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -27,8 +27,8 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "F:\\NNLTC#\\Buoi1_BaiTapNangCao\\Bai4\\Bai4_TinhCan\\Bai4_TinhCan.csproj": {
-                "projectPath": "F:\\NNLTC#\\Buoi1_BaiTapNangCao\\Bai4\\Bai4_TinhCan\\Bai4_TinhCan.csproj"
+              "F:\\NNLTC#\\Buoi1\\Buoi1_BaiTapNangCao\\Bai4\\Bai4_TinhCan\\Bai4_TinhCan.csproj": {
+                "projectPath": "F:\\NNLTC#\\Buoi1\\Buoi1_BaiTapNangCao\\Bai4\\Bai4_TinhCan\\Bai4_TinhCan.csproj"
               }
             }
           }
@@ -361,14 +361,14 @@
         }
       }
     },
-    "F:\\NNLTC#\\Buoi1_BaiTapNangCao\\Bai4\\Bai4_TinhCan\\Bai4_TinhCan.csproj": {
+    "F:\\NNLTC#\\Buoi1\\Buoi1_BaiTapNangCao\\Bai4\\Bai4_TinhCan\\Bai4_TinhCan.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\NNLTC#\\Buoi1_BaiTapNangCao\\Bai4\\Bai4_TinhCan\\Bai4_TinhCan.csproj",
+        "projectUniqueName": "F:\\NNLTC#\\Buoi1\\Buoi1_BaiTapNangCao\\Bai4\\Bai4_TinhCan\\Bai4_TinhCan.csproj",
         "projectName": "Bai4_TinhCan",
-        "projectPath": "F:\\NNLTC#\\Buoi1_BaiTapNangCao\\Bai4\\Bai4_TinhCan\\Bai4_TinhCan.csproj",
+        "projectPath": "F:\\NNLTC#\\Buoi1\\Buoi1_BaiTapNangCao\\Bai4\\Bai4_TinhCan\\Bai4_TinhCan.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "F:\\NNLTC#\\Buoi1_BaiTapNangCao\\Bai4\\Bai4_TinhCan\\obj\\",
+        "outputPath": "F:\\NNLTC#\\Buoi1\\Buoi1_BaiTapNangCao\\Bai4\\Bai4_TinhCan\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config"

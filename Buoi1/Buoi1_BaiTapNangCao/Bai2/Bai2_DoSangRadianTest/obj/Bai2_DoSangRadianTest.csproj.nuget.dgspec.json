@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\NNLTC#\\Buoi1_BaiTapNangCao\\Bai2\\Bai2_DoSangRadianTest\\Bai2_DoSangRadianTest.csproj": {}
+    "F:\\NNLTC#\\Buoi1\\Buoi1_BaiTapNangCao\\Bai2\\Bai2_DoSangRadianTest\\Bai2_DoSangRadianTest.csproj": {}
   },
   "projects": {
-    "F:\\NNLTC#\\Buoi1_BaiTapNangCao\\Bai2\\Bai2_DoSangRadianTest\\Bai2_DoSangRadianTest.csproj": {
+    "F:\\NNLTC#\\Buoi1\\Buoi1_BaiTapNangCao\\Bai2\\Bai2_DoSangRadianTest\\Bai2_DoSangRadianTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\NNLTC#\\Buoi1_BaiTapNangCao\\Bai2\\Bai2_DoSangRadianTest\\Bai2_DoSangRadianTest.csproj",
+        "projectUniqueName": "F:\\NNLTC#\\Buoi1\\Buoi1_BaiTapNangCao\\Bai2\\Bai2_DoSangRadianTest\\Bai2_DoSangRadianTest.csproj",
         "projectName": "Bai2_DoSangRadianTest",
-        "projectPath": "F:\\NNLTC#\\Buoi1_BaiTapNangCao\\Bai2\\Bai2_DoSangRadianTest\\Bai2_DoSangRadianTest.csproj",
+        "projectPath": "F:\\NNLTC#\\Buoi1\\Buoi1_BaiTapNangCao\\Bai2\\Bai2_DoSangRadianTest\\Bai2_DoSangRadianTest.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "F:\\NNLTC#\\Buoi1_BaiTapNangCao\\Bai2\\Bai2_DoSangRadianTest\\obj\\",
+        "outputPath": "F:\\NNLTC#\\Buoi1\\Buoi1_BaiTapNangCao\\Bai2\\Bai2_DoSangRadianTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -27,8 +27,8 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "F:\\NNLTC#\\Buoi1_BaiTapNangCao\\Bai2\\Bai2_DoSangRadian\\Bai2_DoSangRadian.csproj": {
-                "projectPath": "F:\\NNLTC#\\Buoi1_BaiTapNangCao\\Bai2\\Bai2_DoSangRadian\\Bai2_DoSangRadian.csproj"
+              "F:\\NNLTC#\\Buoi1\\Buoi1_BaiTapNangCao\\Bai2\\Bai2_DoSangRadian\\Bai2_DoSangRadian.csproj": {
+                "projectPath": "F:\\NNLTC#\\Buoi1\\Buoi1_BaiTapNangCao\\Bai2\\Bai2_DoSangRadian\\Bai2_DoSangRadian.csproj"
               }
             }
           }
@@ -361,14 +361,14 @@
         }
       }
     },
-    "F:\\NNLTC#\\Buoi1_BaiTapNangCao\\Bai2\\Bai2_DoSangRadian\\Bai2_DoSangRadian.csproj": {
+    "F:\\NNLTC#\\Buoi1\\Buoi1_BaiTapNangCao\\Bai2\\Bai2_DoSangRadian\\Bai2_DoSangRadian.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\NNLTC#\\Buoi1_BaiTapNangCao\\Bai2\\Bai2_DoSangRadian\\Bai2_DoSangRadian.csproj",
+        "projectUniqueName": "F:\\NNLTC#\\Buoi1\\Buoi1_BaiTapNangCao\\Bai2\\Bai2_DoSangRadian\\Bai2_DoSangRadian.csproj",
         "projectName": "Bai2_DoSangRadian",
-        "projectPath": "F:\\NNLTC#\\Buoi1_BaiTapNangCao\\Bai2\\Bai2_DoSangRadian\\Bai2_DoSangRadian.csproj",
+        "projectPath": "F:\\NNLTC#\\Buoi1\\Buoi1_BaiTapNangCao\\Bai2\\Bai2_DoSangRadian\\Bai2_DoSangRadian.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "F:\\NNLTC#\\Buoi1_BaiTapNangCao\\Bai2\\Bai2_DoSangRadian\\obj\\",
+        "outputPath": "F:\\NNLTC#\\Buoi1\\Buoi1_BaiTapNangCao\\Bai2\\Bai2_DoSangRadian\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config"

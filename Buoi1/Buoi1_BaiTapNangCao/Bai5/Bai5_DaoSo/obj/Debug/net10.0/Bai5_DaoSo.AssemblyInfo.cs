@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bai5_DaoSo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ada0c54ce856a6acda6d5da2489cba351a1d838")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93604ca32e11667b775c72af26c5ebc4fb771b6a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bai5_DaoSo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bai5_DaoSo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

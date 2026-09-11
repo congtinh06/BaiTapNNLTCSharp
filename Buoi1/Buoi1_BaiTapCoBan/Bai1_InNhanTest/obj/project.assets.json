@@ -935,11 +935,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\NNLTC#\\Buoi1\\Bai1_InNhanTest\\Bai1_InNhanTest.csproj",
+      "projectUniqueName": "F:\\NNLTC#\\Buoi1\\Buoi1_BaiTapCoBan\\Bai1_InNhanTest\\Bai1_InNhanTest.csproj",
       "projectName": "Bai1_InNhanTest",
-      "projectPath": "F:\\NNLTC#\\Buoi1\\Bai1_InNhanTest\\Bai1_InNhanTest.csproj",
+      "projectPath": "F:\\NNLTC#\\Buoi1\\Buoi1_BaiTapCoBan\\Bai1_InNhanTest\\Bai1_InNhanTest.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "F:\\NNLTC#\\Buoi1\\Bai1_InNhanTest\\obj\\",
+      "outputPath": "F:\\NNLTC#\\Buoi1\\Buoi1_BaiTapCoBan\\Bai1_InNhanTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -955,8 +955,8 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "F:\\NNLTC#\\Buoi1\\Bai1_InNhan\\Bai1_InNhan.csproj": {
-              "projectPath": "F:\\NNLTC#\\Buoi1\\Bai1_InNhan\\Bai1_InNhan.csproj"
+            "F:\\NNLTC#\\Buoi1\\Buoi1_BaiTapCoBan\\Bai1_InNhan\\Bai1_InNhan.csproj": {
+              "projectPath": "F:\\NNLTC#\\Buoi1\\Buoi1_BaiTapCoBan\\Bai1_InNhan\\Bai1_InNhan.csproj"
             }
           }
         }

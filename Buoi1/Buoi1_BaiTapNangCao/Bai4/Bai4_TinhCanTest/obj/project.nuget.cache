@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ThI1gi1RRTM=",
+  "dgSpecHash": "5KrlO4gEHPM=",
   "success": true,
-  "projectFilePath": "F:\\NNLTC#\\Buoi1_BaiTapNangCao\\Bai4\\Bai4_TinhCanTest\\Bai4_TinhCanTest.csproj",
+  "projectFilePath": "F:\\NNLTC#\\Buoi1\\Buoi1_BaiTapNangCao\\Bai4\\Bai4_TinhCanTest\\Bai4_TinhCanTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LENOVO\\.nuget\\packages\\coverlet.collector\\6.0.4\\coverlet.collector.6.0.4.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.codecoverage\\17.14.1\\microsoft.codecoverage.17.14.1.nupkg.sha512",
