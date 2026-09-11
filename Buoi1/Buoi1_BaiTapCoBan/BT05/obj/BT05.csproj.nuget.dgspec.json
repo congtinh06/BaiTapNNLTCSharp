@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Workspace\\NNLTCsharp\\Buoi01\\BT05\\BT05.csproj": {}
+    "C:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi1\\Buoi1_BaiTapCoBan\\BT05\\BT05.csproj": {}
   },
   "projects": {
-    "C:\\Workspace\\NNLTCsharp\\Buoi01\\BT05\\BT05.csproj": {
+    "C:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi1\\Buoi1_BaiTapCoBan\\BT05\\BT05.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Workspace\\NNLTCsharp\\Buoi01\\BT05\\BT05.csproj",
+        "projectUniqueName": "C:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi1\\Buoi1_BaiTapCoBan\\BT05\\BT05.csproj",
         "projectName": "BT05",
-        "projectPath": "C:\\Workspace\\NNLTCsharp\\Buoi01\\BT05\\BT05.csproj",
+        "projectPath": "C:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi1\\Buoi1_BaiTapCoBan\\BT05\\BT05.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Workspace\\NNLTCsharp\\Buoi01\\BT05\\obj\\",
+        "outputPath": "C:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi1\\Buoi1_BaiTapCoBan\\BT05\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\LENOVO\\.nuget\\packages\\": {}
+    "C:\\Users\\ASUS\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\NNLTC#\\Buoi1_BaiTapNangCao\\Bai4\\Bai4_TinhCan\\Bai4_TinhCan.csproj",
+      "projectUniqueName": "C:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi1\\Buoi1_BaiTapNangCao\\Bai4\\Bai4_TinhCan\\Bai4_TinhCan.csproj",
       "projectName": "Bai4_TinhCan",
-      "projectPath": "F:\\NNLTC#\\Buoi1_BaiTapNangCao\\Bai4\\Bai4_TinhCan\\Bai4_TinhCan.csproj",
-      "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "F:\\NNLTC#\\Buoi1_BaiTapNangCao\\Bai4\\Bai4_TinhCan\\obj\\",
+      "projectPath": "C:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi1\\Buoi1_BaiTapNangCao\\Bai4\\Bai4_TinhCan\\Bai4_TinhCan.csproj",
+      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+      "outputPath": "C:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi1\\Buoi1_BaiTapNangCao\\Bai4\\Bai4_TinhCan\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"

@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\mason\\.nuget\\packages\\": {}
+    "C:\\Users\\ASUS\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Downloads\\code\\C#\\BTBuoi1\\Bai2_CVi_DtHinhTron\\BT2.csproj",
+      "projectUniqueName": "C:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi1\\Buoi1_BaiTapCoBan\\Bai2_CVi_DtHinhTron\\BT2.csproj",
       "projectName": "BT2",
-      "projectPath": "E:\\Downloads\\code\\C#\\BTBuoi1\\Bai2_CVi_DtHinhTron\\BT2.csproj",
-      "packagesPath": "C:\\Users\\mason\\.nuget\\packages\\",
-      "outputPath": "E:\\Downloads\\code\\C#\\BTBuoi1\\Bai2_CVi_DtHinhTron\\obj\\",
+      "projectPath": "C:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi1\\Buoi1_BaiTapCoBan\\Bai2_CVi_DtHinhTron\\BT2.csproj",
+      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+      "outputPath": "C:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi1\\Buoi1_BaiTapCoBan\\Bai2_CVi_DtHinhTron\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\mason\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"

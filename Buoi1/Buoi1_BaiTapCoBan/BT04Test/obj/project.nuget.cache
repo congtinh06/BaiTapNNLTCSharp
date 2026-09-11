@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DBqs2dliZ70=",
+  "dgSpecHash": "V7bZBKm1vbo=",
   "success": true,
-  "projectFilePath": "C:\\Workspace\\NNLTCsharp\\Buoi01\\BT04Test\\BT04Test.csproj",
+  "projectFilePath": "C:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi1\\Buoi1_BaiTapCoBan\\BT04Test\\BT04Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\coverlet.collector\\6.0.4\\coverlet.collector.6.0.4.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.codecoverage\\17.14.1\\microsoft.codecoverage.17.14.1.nupkg.sha512",

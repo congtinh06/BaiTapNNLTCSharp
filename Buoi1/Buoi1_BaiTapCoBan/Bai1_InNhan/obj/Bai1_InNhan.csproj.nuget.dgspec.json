@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\NNLTC#\\Buoi1\\Bai1_InNhan\\Bai1_InNhan.csproj": {}
+    "C:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi1\\Buoi1_BaiTapCoBan\\Bai1_InNhan\\Bai1_InNhan.csproj": {}
   },
   "projects": {
-    "F:\\NNLTC#\\Buoi1\\Bai1_InNhan\\Bai1_InNhan.csproj": {
+    "C:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi1\\Buoi1_BaiTapCoBan\\Bai1_InNhan\\Bai1_InNhan.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\NNLTC#\\Buoi1\\Bai1_InNhan\\Bai1_InNhan.csproj",
+        "projectUniqueName": "C:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi1\\Buoi1_BaiTapCoBan\\Bai1_InNhan\\Bai1_InNhan.csproj",
         "projectName": "Bai1_InNhan",
-        "projectPath": "F:\\NNLTC#\\Buoi1\\Bai1_InNhan\\Bai1_InNhan.csproj",
-        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "F:\\NNLTC#\\Buoi1\\Bai1_InNhan\\obj\\",
+        "projectPath": "C:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi1\\Buoi1_BaiTapCoBan\\Bai1_InNhan\\Bai1_InNhan.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi1\\Buoi1_BaiTapCoBan\\Bai1_InNhan\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"

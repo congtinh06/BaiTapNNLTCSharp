@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\LENOVO\\.nuget\\packages\\": {}
+    "C:\\Users\\ASUS\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\NNLTC#\\Buoi1\\Bai3_DoiSangGiay\\Bai3_DoiSangGiay.csproj",
+      "projectUniqueName": "C:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi1\\Buoi1_BaiTapCoBan\\Bai3_DoiSangGiay\\Bai3_DoiSangGiay.csproj",
       "projectName": "Bai3_DoiSangGiay",
-      "projectPath": "F:\\NNLTC#\\Buoi1\\Bai3_DoiSangGiay\\Bai3_DoiSangGiay.csproj",
-      "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "F:\\NNLTC#\\Buoi1\\Bai3_DoiSangGiay\\obj\\",
+      "projectPath": "C:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi1\\Buoi1_BaiTapCoBan\\Bai3_DoiSangGiay\\Bai3_DoiSangGiay.csproj",
+      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+      "outputPath": "C:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi1\\Buoi1_BaiTapCoBan\\Bai3_DoiSangGiay\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bai2_DoSangRadian")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40016e4b10c0aff5d1e286577ed34a6cc87cc02f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d54879fd1cbf07f4c4bf6a5ec7f6a0ee5c4e3d8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bai2_DoSangRadian")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bai2_DoSangRadian")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\NNLTC#\\Buoi1\\Buoi1_BaiTapNangCao\\Bai5\\Bai5_DaoSoTest\\Bai5_DaoSoTest.csproj": {}
+    "C:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi1\\Buoi1_BaiTapNangCao\\Bai5\\Bai5_DaoSoTest\\Bai5_DaoSoTest.csproj": {}
   },
   "projects": {
-    "F:\\NNLTC#\\Buoi1\\Buoi1_BaiTapNangCao\\Bai5\\Bai5_DaoSoTest\\Bai5_DaoSoTest.csproj": {
+    "C:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi1\\Buoi1_BaiTapNangCao\\Bai5\\Bai5_DaoSoTest\\Bai5_DaoSoTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\NNLTC#\\Buoi1\\Buoi1_BaiTapNangCao\\Bai5\\Bai5_DaoSoTest\\Bai5_DaoSoTest.csproj",
+        "projectUniqueName": "C:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi1\\Buoi1_BaiTapNangCao\\Bai5\\Bai5_DaoSoTest\\Bai5_DaoSoTest.csproj",
         "projectName": "Bai5_DaoSoTest",
-        "projectPath": "F:\\NNLTC#\\Buoi1\\Buoi1_BaiTapNangCao\\Bai5\\Bai5_DaoSoTest\\Bai5_DaoSoTest.csproj",
-        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "F:\\NNLTC#\\Buoi1\\Buoi1_BaiTapNangCao\\Bai5\\Bai5_DaoSoTest\\obj\\",
+        "projectPath": "C:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi1\\Buoi1_BaiTapNangCao\\Bai5\\Bai5_DaoSoTest\\Bai5_DaoSoTest.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi1\\Buoi1_BaiTapNangCao\\Bai5\\Bai5_DaoSoTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -27,8 +27,8 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "F:\\NNLTC#\\Buoi1\\Buoi1_BaiTapNangCao\\Bai5\\Bai5_DaoSo\\Bai5_DaoSo.csproj": {
-                "projectPath": "F:\\NNLTC#\\Buoi1\\Buoi1_BaiTapNangCao\\Bai5\\Bai5_DaoSo\\Bai5_DaoSo.csproj"
+              "C:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi1\\Buoi1_BaiTapNangCao\\Bai5\\Bai5_DaoSo\\Bai5_DaoSo.csproj": {
+                "projectPath": "C:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi1\\Buoi1_BaiTapNangCao\\Bai5\\Bai5_DaoSo\\Bai5_DaoSo.csproj"
               }
             }
           }
@@ -361,17 +361,17 @@
         }
       }
     },
-    "F:\\NNLTC#\\Buoi1\\Buoi1_BaiTapNangCao\\Bai5\\Bai5_DaoSo\\Bai5_DaoSo.csproj": {
+    "C:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi1\\Buoi1_BaiTapNangCao\\Bai5\\Bai5_DaoSo\\Bai5_DaoSo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\NNLTC#\\Buoi1\\Buoi1_BaiTapNangCao\\Bai5\\Bai5_DaoSo\\Bai5_DaoSo.csproj",
+        "projectUniqueName": "C:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi1\\Buoi1_BaiTapNangCao\\Bai5\\Bai5_DaoSo\\Bai5_DaoSo.csproj",
         "projectName": "Bai5_DaoSo",
-        "projectPath": "F:\\NNLTC#\\Buoi1\\Buoi1_BaiTapNangCao\\Bai5\\Bai5_DaoSo\\Bai5_DaoSo.csproj",
-        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "F:\\NNLTC#\\Buoi1\\Buoi1_BaiTapNangCao\\Bai5\\Bai5_DaoSo\\obj\\",
+        "projectPath": "C:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi1\\Buoi1_BaiTapNangCao\\Bai5\\Bai5_DaoSo\\Bai5_DaoSo.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi1\\Buoi1_BaiTapNangCao\\Bai5\\Bai5_DaoSo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"

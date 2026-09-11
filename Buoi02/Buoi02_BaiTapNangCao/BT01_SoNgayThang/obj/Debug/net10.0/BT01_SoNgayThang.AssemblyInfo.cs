@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BT01_SoNgayThang")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d766e0687e6bae34f36e2f6f9cbe1b21119dd165")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d54879fd1cbf07f4c4bf6a5ec7f6a0ee5c4e3d8")]
 [assembly: System.Reflection.AssemblyProductAttribute("BT01_SoNgayThang")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BT01_SoNgayThang")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -935,11 +935,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi02\\Buoi02_BaiTapNangCao\\BT01_SoNgayThangTest\\BT01_SoNgayThangTest.csproj",
+      "projectUniqueName": "C:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi02\\Buoi02\\Buoi02_BaiTapNangCao\\BT01_SoNgayThangTest\\BT01_SoNgayThangTest.csproj",
       "projectName": "BT01_SoNgayThangTest",
-      "projectPath": "C:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi02\\Buoi02_BaiTapNangCao\\BT01_SoNgayThangTest\\BT01_SoNgayThangTest.csproj",
+      "projectPath": "C:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi02\\Buoi02\\Buoi02_BaiTapNangCao\\BT01_SoNgayThangTest\\BT01_SoNgayThangTest.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi02\\Buoi02_BaiTapNangCao\\BT01_SoNgayThangTest\\obj\\",
+      "outputPath": "C:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi02\\Buoi02\\Buoi02_BaiTapNangCao\\BT01_SoNgayThangTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -955,8 +955,8 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi02\\Buoi02_BaiTapNangCao\\BT01_SoNgayThang\\BT01_SoNgayThang.csproj": {
-              "projectPath": "C:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi02\\Buoi02_BaiTapNangCao\\BT01_SoNgayThang\\BT01_SoNgayThang.csproj"
+            "C:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi02\\Buoi02\\Buoi02_BaiTapNangCao\\BT01_SoNgayThang\\BT01_SoNgayThang.csproj": {
+              "projectPath": "C:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi02\\Buoi02\\Buoi02_BaiTapNangCao\\BT01_SoNgayThang\\BT01_SoNgayThang.csproj"
             }
           }
         }

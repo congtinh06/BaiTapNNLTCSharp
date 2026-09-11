@@ -930,19 +930,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\LENOVO\\.nuget\\packages\\": {}
+    "C:\\Users\\ASUS\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\NNLTC#\\Buoi1_BaiTapNangCao\\Bai4\\Bai4_TinhCanTest\\Bai4_TinhCanTest.csproj",
+      "projectUniqueName": "C:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi1\\Buoi1_BaiTapNangCao\\Bai4\\Bai4_TinhCanTest\\Bai4_TinhCanTest.csproj",
       "projectName": "Bai4_TinhCanTest",
-      "projectPath": "F:\\NNLTC#\\Buoi1_BaiTapNangCao\\Bai4\\Bai4_TinhCanTest\\Bai4_TinhCanTest.csproj",
-      "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "F:\\NNLTC#\\Buoi1_BaiTapNangCao\\Bai4\\Bai4_TinhCanTest\\obj\\",
+      "projectPath": "C:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi1\\Buoi1_BaiTapNangCao\\Bai4\\Bai4_TinhCanTest\\Bai4_TinhCanTest.csproj",
+      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+      "outputPath": "C:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi1\\Buoi1_BaiTapNangCao\\Bai4\\Bai4_TinhCanTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
@@ -955,8 +955,8 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "F:\\NNLTC#\\Buoi1_BaiTapNangCao\\Bai4\\Bai4_TinhCan\\Bai4_TinhCan.csproj": {
-              "projectPath": "F:\\NNLTC#\\Buoi1_BaiTapNangCao\\Bai4\\Bai4_TinhCan\\Bai4_TinhCan.csproj"
+            "C:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi1\\Buoi1_BaiTapNangCao\\Bai4\\Bai4_TinhCan\\Bai4_TinhCan.csproj": {
+              "projectPath": "C:\\Workspace\\NNLTCsharp\\BaiTapNNLTCSharp\\Buoi1\\Buoi1_BaiTapNangCao\\Bai4\\Bai4_TinhCan\\Bai4_TinhCan.csproj"
             }
           }
         }
