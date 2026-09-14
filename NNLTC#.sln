@@ -1,4 +1,4 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.2.0
@@ -17,257 +17,257 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Buoi6", "Buoi6", "{2CBC4D33
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Buoi1_BaiTapCoBan", "Buoi1_BaiTapCoBan", "{83AEA81B-ECD0-6845-6E49-AB4D2AB647F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai1_InNhan", "Buoi1\Buoi1_BaiTapCoBan\Bai1_InNhan\Bai1_InNhan.csproj", "{72719892-54AC-76FF-2C8B-32668DFD95FD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai1_InNhan", "Buoi01\Buoi1_BaiTapCoBan\Bai1_InNhan\Bai1_InNhan.csproj", "{72719892-54AC-76FF-2C8B-32668DFD95FD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai1_InNhanTest", "Buoi1\Buoi1_BaiTapCoBan\Bai1_InNhanTest\Bai1_InNhanTest.csproj", "{F17419DB-3307-3F03-67FA-35EC0CC3D2F1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai1_InNhanTest", "Buoi01\Buoi1_BaiTapCoBan\Bai1_InNhanTest\Bai1_InNhanTest.csproj", "{F17419DB-3307-3F03-67FA-35EC0CC3D2F1}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bai2_CVi_DtHinhTron", "Bai2_CVi_DtHinhTron", "{A184F5A7-EFEA-E5D5-FD29-DAABAF180D40}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT2", "Buoi1\Buoi1_BaiTapCoBan\Bai2_CVi_DtHinhTron\BT2.csproj", "{CCCED5DE-5D74-A7BD-CB94-437844055556}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT2", "Buoi01\Buoi1_BaiTapCoBan\Bai2_CVi_DtHinhTron\BT2.csproj", "{CCCED5DE-5D74-A7BD-CB94-437844055556}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai3_DoiSangGiay", "Buoi1\Buoi1_BaiTapCoBan\Bai3_DoiSangGiay\Bai3_DoiSangGiay.csproj", "{153E5390-FE89-9415-C026-0C141E1CBF1A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai3_DoiSangGiay", "Buoi01\Buoi1_BaiTapCoBan\Bai3_DoiSangGiay\Bai3_DoiSangGiay.csproj", "{153E5390-FE89-9415-C026-0C141E1CBF1A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai3_DoiSangGiayTest", "Buoi1\Buoi1_BaiTapCoBan\Bai3_DoiSangGiayTest\Bai3_DoiSangGiayTest.csproj", "{2CA9D75B-98DB-FDD0-57A5-E8267DA3A326}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai3_DoiSangGiayTest", "Buoi01\Buoi1_BaiTapCoBan\Bai3_DoiSangGiayTest\Bai3_DoiSangGiayTest.csproj", "{2CA9D75B-98DB-FDD0-57A5-E8267DA3A326}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai6_SoMu", "Buoi1\Buoi1_BaiTapCoBan\Bai6_SoMu\Bai6_SoMu.csproj", "{ADD1D75F-869D-3A91-AEA9-490338A905C3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai6_SoMu", "Buoi01\Buoi1_BaiTapCoBan\Bai6_SoMu\Bai6_SoMu.csproj", "{ADD1D75F-869D-3A91-AEA9-490338A905C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai6_SoMuTest", "Buoi1\Buoi1_BaiTapCoBan\Bai6_SoMuTest\Bai6_SoMuTest.csproj", "{06DDFAEE-9278-8D2B-305E-5193CC257636}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai6_SoMuTest", "Buoi01\Buoi1_BaiTapCoBan\Bai6_SoMuTest\Bai6_SoMuTest.csproj", "{06DDFAEE-9278-8D2B-305E-5193CC257636}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT02", "Buoi1\Buoi1_BaiTapCoBan\BT02\BT02.csproj", "{B53EA74F-9D6D-99C5-649C-4340D5C8FE7A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT02", "Buoi01\Buoi1_BaiTapCoBan\BT02\BT02.csproj", "{B53EA74F-9D6D-99C5-649C-4340D5C8FE7A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT02Test", "Buoi1\Buoi1_BaiTapCoBan\BT02Test\BT02Test.csproj", "{1D728DD5-249A-880C-AD4E-AC8018A56BF0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT02Test", "Buoi01\Buoi1_BaiTapCoBan\BT02Test\BT02Test.csproj", "{1D728DD5-249A-880C-AD4E-AC8018A56BF0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT04", "Buoi1\Buoi1_BaiTapCoBan\BT04\BT04.csproj", "{22286C9E-7D89-D7C5-9C8B-1A8C87F74C72}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT04", "Buoi01\Buoi1_BaiTapCoBan\BT04\BT04.csproj", "{22286C9E-7D89-D7C5-9C8B-1A8C87F74C72}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT04Test", "Buoi1\Buoi1_BaiTapCoBan\BT04Test\BT04Test.csproj", "{EA34A160-A197-7E7E-9363-94EAC11F300A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT04Test", "Buoi01\Buoi1_BaiTapCoBan\BT04Test\BT04Test.csproj", "{EA34A160-A197-7E7E-9363-94EAC11F300A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT05", "Buoi1\Buoi1_BaiTapCoBan\BT05\BT05.csproj", "{D3BF9268-3BD4-BCE2-31E1-724A1E596970}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT05", "Buoi01\Buoi1_BaiTapCoBan\BT05\BT05.csproj", "{D3BF9268-3BD4-BCE2-31E1-724A1E596970}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT05Test", "Buoi1\Buoi1_BaiTapCoBan\BT05Test\BT05Test.csproj", "{AE12CF09-7E66-2C35-7F28-B73957C7D1CA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT05Test", "Buoi01\Buoi1_BaiTapCoBan\BT05Test\BT05Test.csproj", "{AE12CF09-7E66-2C35-7F28-B73957C7D1CA}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Buoi02_BaiTapNangCao", "Buoi02_BaiTapNangCao", "{B36AA0FF-1E0A-A442-5E78-E13D2D1052B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT01_SoNgayThang", "Buoi2\Buoi02_BaiTapNangCao\BT01_SoNgayThang\BT01_SoNgayThang.csproj", "{6D0F005C-A186-59BF-6C6B-A89C5438358C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT01_SoNgayThang", "Buoi02\Buoi02_BaiTapNangCao\BT01_SoNgayThang\BT01_SoNgayThang.csproj", "{6D0F005C-A186-59BF-6C6B-A89C5438358C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT01_SoNgayThangTest", "Buoi2\Buoi02_BaiTapNangCao\BT01_SoNgayThangTest\BT01_SoNgayThangTest.csproj", "{EC5C345A-12EC-F2C9-858F-1E2229CBC342}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT01_SoNgayThangTest", "Buoi02\Buoi02_BaiTapNangCao\BT01_SoNgayThangTest\BT01_SoNgayThangTest.csproj", "{EC5C345A-12EC-F2C9-858F-1E2229CBC342}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT02_KiemTraTronThang", "Buoi2\Buoi02_BaiTapNangCao\BT02_KiemTraTronThang\BT02_KiemTraTronThang.csproj", "{52EC9DF4-F2B7-D85C-367E-5AF5A2EAF63B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT02_KiemTraTronThang", "Buoi02\Buoi02_BaiTapNangCao\BT02_KiemTraTronThang\BT02_KiemTraTronThang.csproj", "{52EC9DF4-F2B7-D85C-367E-5AF5A2EAF63B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT02_KiemTraTronThangTest", "Buoi2\Buoi02_BaiTapNangCao\BT02_KiemTraTronThangTest\BT02_KiemTraTronThangTest.csproj", "{63758A88-8E42-A7F6-E336-0834DCA35083}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT02_KiemTraTronThangTest", "Buoi02\Buoi02_BaiTapNangCao\BT02_KiemTraTronThangTest\BT02_KiemTraTronThangTest.csproj", "{63758A88-8E42-A7F6-E336-0834DCA35083}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT03_ChuViDienTichTamGiac", "Buoi2\Buoi02_BaiTapNangCao\BT03_ChuVIDienTichTamGiac\BT03_ChuViDienTichTamGiac.csproj", "{1A70E7D6-EDA5-5F56-449E-DAE70366C9F4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT03_ChuViDienTichTamGiac", "Buoi02\Buoi02_BaiTapNangCao\BT03_ChuVIDienTichTamGiac\BT03_ChuViDienTichTamGiac.csproj", "{1A70E7D6-EDA5-5F56-449E-DAE70366C9F4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT03_ChuViDienTichTamGiacTest", "Buoi2\Buoi02_BaiTapNangCao\BT03_ChuViDienTichTamGiacTest\BT03_ChuViDienTichTamGiacTest.csproj", "{EB56315E-FDC6-7454-89FD-87D0904339EA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT03_ChuViDienTichTamGiacTest", "Buoi02\Buoi02_BaiTapNangCao\BT03_ChuViDienTichTamGiacTest\BT03_ChuViDienTichTamGiacTest.csproj", "{EB56315E-FDC6-7454-89FD-87D0904339EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT04_ChuViDaGiacDeu", "Buoi2\Buoi02_BaiTapNangCao\BT04_ChuViDaGiacDeu\BT04_ChuViDaGiacDeu.csproj", "{505A58B9-4113-D83F-DC5C-0B349CA61F08}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT04_ChuViDaGiacDeu", "Buoi02\Buoi02_BaiTapNangCao\BT04_ChuViDaGiacDeu\BT04_ChuViDaGiacDeu.csproj", "{505A58B9-4113-D83F-DC5C-0B349CA61F08}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT04_ChuVIDaGiacDeuTest", "Buoi2\Buoi02_BaiTapNangCao\BT04_ChuVIDaGiacDeuTest\BT04_ChuVIDaGiacDeuTest.csproj", "{2D3B2BC5-3634-DD60-288F-1334DA87C79B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT04_ChuVIDaGiacDeuTest", "Buoi02\Buoi02_BaiTapNangCao\BT04_ChuVIDaGiacDeuTest\BT04_ChuVIDaGiacDeuTest.csproj", "{2D3B2BC5-3634-DD60-288F-1334DA87C79B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT05_ChuSoGiaiThua", "Buoi2\Buoi02_BaiTapNangCao\BT05_ChuSoGiaiThua\BT05_ChuSoGiaiThua.csproj", "{9616C741-83E2-E9FF-B425-2EB12D239805}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT05_ChuSoGiaiThua", "Buoi02\Buoi02_BaiTapNangCao\BT05_ChuSoGiaiThua\BT05_ChuSoGiaiThua.csproj", "{9616C741-83E2-E9FF-B425-2EB12D239805}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT05_ChuSoGiaiTHuaTest", "Buoi2\Buoi02_BaiTapNangCao\BT05_ChuSoGiaiTHuaTest\BT05_ChuSoGiaiTHuaTest.csproj", "{D54811D4-F2B8-AD16-695A-23EBE8487434}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT05_ChuSoGiaiTHuaTest", "Buoi02\Buoi02_BaiTapNangCao\BT05_ChuSoGiaiTHuaTest\BT05_ChuSoGiaiTHuaTest.csproj", "{D54811D4-F2B8-AD16-695A-23EBE8487434}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT06_NamTrong", "Buoi2\Buoi02_BaiTapNangCao\BT06_NamTrong\BT06_NamTrong.csproj", "{63DE95A5-F108-0471-E7D5-D5B3F97D3A9B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT06_NamTrong", "Buoi02\Buoi02_BaiTapNangCao\BT06_NamTrong\BT06_NamTrong.csproj", "{63DE95A5-F108-0471-E7D5-D5B3F97D3A9B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT06_NamTrongTest", "Buoi2\Buoi02_BaiTapNangCao\BT06_NamTrongTest\BT06_NamTrongTest.csproj", "{7042459E-368F-A266-926E-00A6FDEB8570}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT06_NamTrongTest", "Buoi02\Buoi02_BaiTapNangCao\BT06_NamTrongTest\BT06_NamTrongTest.csproj", "{7042459E-368F-A266-926E-00A6FDEB8570}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT07_DienTichToDam", "Buoi2\Buoi02_BaiTapNangCao\BT07_DienTichToDam\BT07_DienTichToDam.csproj", "{03B3D37F-A435-A3B2-39A7-142D37E44599}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT07_DienTichToDam", "Buoi02\Buoi02_BaiTapNangCao\BT07_DienTichToDam\BT07_DienTichToDam.csproj", "{03B3D37F-A435-A3B2-39A7-142D37E44599}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT07_DienTichToDamTest", "Buoi2\Buoi02_BaiTapNangCao\BT07_DienTichToDamTest\BT07_DienTichToDamTest.csproj", "{C602E1EF-B361-9292-4387-ED702E78ED99}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT07_DienTichToDamTest", "Buoi02\Buoi02_BaiTapNangCao\BT07_DienTichToDamTest\BT07_DienTichToDamTest.csproj", "{C602E1EF-B361-9292-4387-ED702E78ED99}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Buoi2_BaiTapCoBan", "Buoi2_BaiTapCoBan", "{4A09819F-C328-30FA-D24D-7BC8BA05C98E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai1_TinhTongDoan", "Buoi2\Buoi2_BaiTapCoBan\Bai1_TinhTongDoan\Bai1_TinhTongDoan.csproj", "{73B3729E-1CA4-EBEA-9C63-2756C1C9FD04}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai1_TinhTongDoan", "Buoi02\Buoi2_BaiTapCoBan\Bai1_TinhTongDoan\Bai1_TinhTongDoan.csproj", "{73B3729E-1CA4-EBEA-9C63-2756C1C9FD04}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai1_TinhTongDoanTests", "Buoi2\Buoi2_BaiTapCoBan\Bai1_TinhTongDoanTests\Bai1_TinhTongDoanTests.csproj", "{7E23CD12-08CB-78C3-5F29-EF028A3479D6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai1_TinhTongDoanTests", "Buoi02\Buoi2_BaiTapCoBan\Bai1_TinhTongDoanTests\Bai1_TinhTongDoanTests.csproj", "{7E23CD12-08CB-78C3-5F29-EF028A3479D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai2_LuyThuaNhanh1", "Buoi2\Buoi2_BaiTapCoBan\Bai2_LuyThuaNhanh1\Bai2_LuyThuaNhanh1.csproj", "{082D8FFF-7F66-600E-758F-4D70133C1865}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai2_LuyThuaNhanh1", "Buoi02\Buoi2_BaiTapCoBan\Bai2_LuyThuaNhanh1\Bai2_LuyThuaNhanh1.csproj", "{082D8FFF-7F66-600E-758F-4D70133C1865}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai2_LuyThuaNhanh1Tests", "Buoi2\Buoi2_BaiTapCoBan\Bai2_LuyThuaNhanh1Tests\Bai2_LuyThuaNhanh1Tests.csproj", "{59B8AAFB-270B-C526-3803-02E022AA87EF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai2_LuyThuaNhanh1Tests", "Buoi02\Buoi2_BaiTapCoBan\Bai2_LuyThuaNhanh1Tests\Bai2_LuyThuaNhanh1Tests.csproj", "{59B8AAFB-270B-C526-3803-02E022AA87EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai3_TimBieuThucNhanh1", "Buoi2\Buoi2_BaiTapCoBan\Bai3_TimBieuThucNhanh1\Bai3_TimBieuThucNhanh1.csproj", "{BB6E21E8-7776-0817-D222-76AD57849718}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai3_TimBieuThucNhanh1", "Buoi02\Buoi2_BaiTapCoBan\Bai3_TimBieuThucNhanh1\Bai3_TimBieuThucNhanh1.csproj", "{BB6E21E8-7776-0817-D222-76AD57849718}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai3_TimBieuThucNhanh1Tests", "Buoi2\Buoi2_BaiTapCoBan\Bai3_TimBieuThucNhanh1Tests\Bai3_TimBieuThucNhanh1Tests.csproj", "{85748F3A-5524-D582-B86A-FBE9B482390B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai3_TimBieuThucNhanh1Tests", "Buoi02\Buoi2_BaiTapCoBan\Bai3_TimBieuThucNhanh1Tests\Bai3_TimBieuThucNhanh1Tests.csproj", "{85748F3A-5524-D582-B86A-FBE9B482390B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai4_TimQui", "Buoi2\Buoi2_BaiTapCoBan\Bai4_TimQui\Bai4_TimQui.csproj", "{33D908C3-7A18-4990-4110-3D407C6412CB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai4_TimQui", "Buoi02\Buoi2_BaiTapCoBan\Bai4_TimQui\Bai4_TimQui.csproj", "{33D908C3-7A18-4990-4110-3D407C6412CB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai4_TimQuiTests", "Buoi2\Buoi2_BaiTapCoBan\Bai4_TimQuiTests\Bai4_TimQuiTests.csproj", "{B51F7541-0728-CCEB-47E3-C13C73E5E0AB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai4_TimQuiTests", "Buoi02\Buoi2_BaiTapCoBan\Bai4_TimQuiTests\Bai4_TimQuiTests.csproj", "{B51F7541-0728-CCEB-47E3-C13C73E5E0AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai5_HaiChuSoCuoi", "Buoi2\Buoi2_BaiTapCoBan\Bai5_HaiChuSoCuoi\Bai5_HaiChuSoCuoi.csproj", "{65E72FE0-B7A4-2A47-B8CF-E3B240A86010}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai5_HaiChuSoCuoi", "Buoi02\Buoi2_BaiTapCoBan\Bai5_HaiChuSoCuoi\Bai5_HaiChuSoCuoi.csproj", "{65E72FE0-B7A4-2A47-B8CF-E3B240A86010}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai5_HaiChuSoCuoiTests", "Buoi2\Buoi2_BaiTapCoBan\Bai5_HaiChuSoCuoiTests\Bai5_HaiChuSoCuoiTests.csproj", "{37CE41F8-E861-DC14-835D-210A4C14DC6C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai5_HaiChuSoCuoiTests", "Buoi02\Buoi2_BaiTapCoBan\Bai5_HaiChuSoCuoiTests\Bai5_HaiChuSoCuoiTests.csproj", "{37CE41F8-E861-DC14-835D-210A4C14DC6C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Buoi3_BaiTapCoBan", "Buoi3_BaiTapCoBan", "{777B75A4-E95F-5C37-E527-79B5E0F98DE9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai1_MaxMin5So", "Buoi3\Buoi3_BaiTapCoBan\Bai1_MaxMin5So\Bai1_MaxMin5So.csproj", "{126F1A43-4F99-A2F4-421C-C3298DA4423D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai1_MaxMin5So", "Buoi03\Buoi3_BaiTapCoBan\Bai1_MaxMin5So\Bai1_MaxMin5So.csproj", "{126F1A43-4F99-A2F4-421C-C3298DA4423D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai1_MaxMin5SoTests", "Buoi3\Buoi3_BaiTapCoBan\Bai1_MaxMin5SoTests\Bai1_MaxMin5SoTests.csproj", "{AABC9B7A-936A-17EC-580E-D426FF5ACDE4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai1_MaxMin5SoTests", "Buoi03\Buoi3_BaiTapCoBan\Bai1_MaxMin5SoTests\Bai1_MaxMin5SoTests.csproj", "{AABC9B7A-936A-17EC-580E-D426FF5ACDE4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai2_GiaTriHamSo1", "Buoi3\Buoi3_BaiTapCoBan\Bai2_GiaTriHamSo1\Bai2_GiaTriHamSo1.csproj", "{842A8E15-66DB-4EF2-31CB-0DC7AD614759}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai2_GiaTriHamSo1", "Buoi03\Buoi3_BaiTapCoBan\Bai2_GiaTriHamSo1\Bai2_GiaTriHamSo1.csproj", "{842A8E15-66DB-4EF2-31CB-0DC7AD614759}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai2_GiaTriHamSo1Tests", "Buoi3\Buoi3_BaiTapCoBan\Bai2_GiaTriHamSo1Tests\Bai2_GiaTriHamSo1Tests.csproj", "{52DF0621-CC98-09EF-DF83-C14F0FD7F437}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai2_GiaTriHamSo1Tests", "Buoi03\Buoi3_BaiTapCoBan\Bai2_GiaTriHamSo1Tests\Bai2_GiaTriHamSo1Tests.csproj", "{52DF0621-CC98-09EF-DF83-C14F0FD7F437}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai3_PhuongTrinhBac2", "Buoi3\Buoi3_BaiTapCoBan\Bai3_PhuongTrinhBac2\Bai3_PhuongTrinhBac2.csproj", "{D5EC8EEA-6838-6A35-01F4-F52866CB58FD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai3_PhuongTrinhBac2", "Buoi03\Buoi3_BaiTapCoBan\Bai3_PhuongTrinhBac2\Bai3_PhuongTrinhBac2.csproj", "{D5EC8EEA-6838-6A35-01F4-F52866CB58FD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai3_PhuongTrinhBac2Tests", "Buoi3\Buoi3_BaiTapCoBan\Bai3_PhuongTrinhBac2Tests\Bai3_PhuongTrinhBac2Tests.csproj", "{A8289148-0FF8-4219-77F5-E4D3C1256099}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai3_PhuongTrinhBac2Tests", "Buoi03\Buoi3_BaiTapCoBan\Bai3_PhuongTrinhBac2Tests\Bai3_PhuongTrinhBac2Tests.csproj", "{A8289148-0FF8-4219-77F5-E4D3C1256099}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai4_ThangTiengAnh", "Buoi3\Buoi3_BaiTapCoBan\Bai4_ThangTiengAnh\Bai4_ThangTiengAnh.csproj", "{BDD557FF-0BCC-6884-3408-71D52C382C84}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai4_ThangTiengAnh", "Buoi03\Buoi3_BaiTapCoBan\Bai4_ThangTiengAnh\Bai4_ThangTiengAnh.csproj", "{BDD557FF-0BCC-6884-3408-71D52C382C84}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai4_ThangTiengAnhTests", "Buoi3\Buoi3_BaiTapCoBan\Bai4_ThangTiengAnhTests\Bai4_ThangTiengAnhTests.csproj", "{E645C3FC-82E2-C0CE-002D-3284581793CE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai4_ThangTiengAnhTests", "Buoi03\Buoi3_BaiTapCoBan\Bai4_ThangTiengAnhTests\Bai4_ThangTiengAnhTests.csproj", "{E645C3FC-82E2-C0CE-002D-3284581793CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai5_SoNgayThangReNhanh", "Buoi3\Buoi3_BaiTapCoBan\Bai5_SoNgayThangReNhanh\Bai5_SoNgayThangReNhanh.csproj", "{0163AE3A-3AF0-2038-7F8B-E85E44E31B5E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai5_SoNgayThangReNhanh", "Buoi03\Buoi3_BaiTapCoBan\Bai5_SoNgayThangReNhanh\Bai5_SoNgayThangReNhanh.csproj", "{0163AE3A-3AF0-2038-7F8B-E85E44E31B5E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai5_SoNgayThangReNhanhTests", "Buoi3\Buoi3_BaiTapCoBan\Bai5_SoNgayThangReNhanhTests\Bai5_SoNgayThangReNhanhTests.csproj", "{5A1A9756-5273-1C1B-5B70-201C8807E455}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai5_SoNgayThangReNhanhTests", "Buoi03\Buoi3_BaiTapCoBan\Bai5_SoNgayThangReNhanhTests\Bai5_SoNgayThangReNhanhTests.csproj", "{5A1A9756-5273-1C1B-5B70-201C8807E455}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Buoi3_BaiTapNangCao", "Buoi3_BaiTapNangCao", "{AADF365D-6319-75FE-12E5-8FF3BA9A9F04}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai1_ChuSoLonNhat", "Buoi3\Buoi3_BaiTapNangCao\Bai1_ChuSoLonNhat\Bai1_ChuSoLonNhat.csproj", "{6ADD6E20-1EAB-FDCB-97C9-BE27B331993D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai1_ChuSoLonNhat", "Buoi03\Buoi3_BaiTapNangCao\Bai1_ChuSoLonNhat\Bai1_ChuSoLonNhat.csproj", "{6ADD6E20-1EAB-FDCB-97C9-BE27B331993D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai1_ChuSoLonNhatTests", "Buoi3\Buoi3_BaiTapNangCao\Bai1_ChuSoLonNhatTests\Bai1_ChuSoLonNhatTests.csproj", "{201CE633-E570-2E5E-2B70-7BF2AF072B91}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai1_ChuSoLonNhatTests", "Buoi03\Buoi3_BaiTapNangCao\Bai1_ChuSoLonNhatTests\Bai1_ChuSoLonNhatTests.csproj", "{201CE633-E570-2E5E-2B70-7BF2AF072B91}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai2_GiaTriHamSo2", "Buoi3\Buoi3_BaiTapNangCao\Bai2_GiaTriHamSo2\Bai2_GiaTriHamSo2.csproj", "{702968FB-40E5-CF6A-6F84-54375BACC758}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai2_GiaTriHamSo2", "Buoi03\Buoi3_BaiTapNangCao\Bai2_GiaTriHamSo2\Bai2_GiaTriHamSo2.csproj", "{702968FB-40E5-CF6A-6F84-54375BACC758}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai2_GiaTriHamSo2Tests", "Buoi3\Buoi3_BaiTapNangCao\Bai2_GiaTriHamSo2Tests\Bai2_GiaTriHamSo2Tests.csproj", "{3E9E5FF7-CD7F-739E-CBEB-9406BC9A05DF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai2_GiaTriHamSo2Tests", "Buoi03\Buoi3_BaiTapNangCao\Bai2_GiaTriHamSo2Tests\Bai2_GiaTriHamSo2Tests.csproj", "{3E9E5FF7-CD7F-739E-CBEB-9406BC9A05DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai3_PhuongTrinhTrungPhuong", "Buoi3\Buoi3_BaiTapNangCao\Bai3_PhuongTrinhTrungPhuong\Bai3_PhuongTrinhTrungPhuong.csproj", "{EA572B6F-4EC6-21AA-B63F-48BAEEE5E6C6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai3_PhuongTrinhTrungPhuong", "Buoi03\Buoi3_BaiTapNangCao\Bai3_PhuongTrinhTrungPhuong\Bai3_PhuongTrinhTrungPhuong.csproj", "{EA572B6F-4EC6-21AA-B63F-48BAEEE5E6C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai3_PhuongTrinhTrungPhuongTests", "Buoi3\Buoi3_BaiTapNangCao\Bai3_PhuongTrinhTrungPhuongTests\Bai3_PhuongTrinhTrungPhuongTests.csproj", "{9719E3E9-73B6-DB5A-FBEE-FC0EB6E44D17}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai3_PhuongTrinhTrungPhuongTests", "Buoi03\Buoi3_BaiTapNangCao\Bai3_PhuongTrinhTrungPhuongTests\Bai3_PhuongTrinhTrungPhuongTests.csproj", "{9719E3E9-73B6-DB5A-FBEE-FC0EB6E44D17}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai4_DocKySo", "Buoi3\Buoi3_BaiTapNangCao\Bai4_DocKySo\Bai4_DocKySo.csproj", "{81996576-3EF0-F7F8-FF3C-777390B658B6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai4_DocKySo", "Buoi03\Buoi3_BaiTapNangCao\Bai4_DocKySo\Bai4_DocKySo.csproj", "{81996576-3EF0-F7F8-FF3C-777390B658B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai4_DocKySoTests", "Buoi3\Buoi3_BaiTapNangCao\Bai4_DocKySoTests\Bai4_DocKySoTests.csproj", "{869DEB90-9B62-951C-8F9A-38D8C45C8F6A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai4_DocKySoTests", "Buoi03\Buoi3_BaiTapNangCao\Bai4_DocKySoTests\Bai4_DocKySoTests.csproj", "{869DEB90-9B62-951C-8F9A-38D8C45C8F6A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai5_ThuTuNgayNam", "Buoi3\Buoi3_BaiTapNangCao\Bai5_ThuTuNgayNam\Bai5_ThuTuNgayNam.csproj", "{45119882-D788-A580-ACDF-39F139E4010E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai5_ThuTuNgayNam", "Buoi03\Buoi3_BaiTapNangCao\Bai5_ThuTuNgayNam\Bai5_ThuTuNgayNam.csproj", "{45119882-D788-A580-ACDF-39F139E4010E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai5_ThuTuNgayNamTests", "Buoi3\Buoi3_BaiTapNangCao\Bai5_ThuTuNgayNamTests\Bai5_ThuTuNgayNamTests.csproj", "{556A6A7A-BCA8-1385-0002-F18521DA3BB2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai5_ThuTuNgayNamTests", "Buoi03\Buoi3_BaiTapNangCao\Bai5_ThuTuNgayNamTests\Bai5_ThuTuNgayNamTests.csproj", "{556A6A7A-BCA8-1385-0002-F18521DA3BB2}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Buoi4_BaiTapCoBan", "Buoi4_BaiTapCoBan", "{32A2CBF6-AD6C-AF5E-9472-91E9680FFD6F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT1_DiemTrungBinh", "Buoi4\Buoi4_BaiTapCoBan\BT1_DiemTrungBinh\BT1_DiemTrungBinh.csproj", "{C59FEC4F-640B-4AE1-4AD8-F17C4154EB8B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT1_DiemTrungBinh", "Buoi04\Buoi4_BaiTapCoBan\BT1_DiemTrungBinh\BT1_DiemTrungBinh.csproj", "{C59FEC4F-640B-4AE1-4AD8-F17C4154EB8B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT1_DiemTrungBinhTest", "Buoi4\Buoi4_BaiTapCoBan\BT1_DiemTrungBinhTest\BT1_DiemTrungBinhTest.csproj", "{77FF11FB-719C-0E67-A3B0-8FDF590258BC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT1_DiemTrungBinhTest", "Buoi04\Buoi4_BaiTapCoBan\BT1_DiemTrungBinhTest\BT1_DiemTrungBinhTest.csproj", "{77FF11FB-719C-0E67-A3B0-8FDF590258BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT2_TienNuoc", "Buoi4\Buoi4_BaiTapCoBan\BT2_TienNuoc\BT2_TienNuoc.csproj", "{42CC9877-3C19-00E9-92C8-5B6A9B8C29DC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT2_TienNuoc", "Buoi04\Buoi4_BaiTapCoBan\BT2_TienNuoc\BT2_TienNuoc.csproj", "{42CC9877-3C19-00E9-92C8-5B6A9B8C29DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT2_TienNuocTest", "Buoi4\Buoi4_BaiTapCoBan\BT2_TienNuocTest\BT2_TienNuocTest.csproj", "{871007C7-D0A2-98D1-96CF-39CAB2247644}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT2_TienNuocTest", "Buoi04\Buoi4_BaiTapCoBan\BT2_TienNuocTest\BT2_TienNuocTest.csproj", "{871007C7-D0A2-98D1-96CF-39CAB2247644}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT3_NgaySau", "Buoi4\Buoi4_BaiTapCoBan\BT3_NgaySau\BT3_NgaySau.csproj", "{4158BB0E-7CC6-9296-2C2D-20E60DFE8D66}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT3_NgaySau", "Buoi04\Buoi4_BaiTapCoBan\BT3_NgaySau\BT3_NgaySau.csproj", "{4158BB0E-7CC6-9296-2C2D-20E60DFE8D66}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT3_NgaySauTest", "Buoi4\Buoi4_BaiTapCoBan\BT3_NgaySauTest\BT3_NgaySauTest.csproj", "{1A2CD310-E7EF-CC0A-5DA9-29EACF96851C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT3_NgaySauTest", "Buoi04\Buoi4_BaiTapCoBan\BT3_NgaySauTest\BT3_NgaySauTest.csproj", "{1A2CD310-E7EF-CC0A-5DA9-29EACF96851C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT4_PhanLoaiTamGiac", "Buoi4\Buoi4_BaiTapCoBan\BT4_PhanLoaiTamGiac\BT4_PhanLoaiTamGiac.csproj", "{16E8ABEC-82B3-D10C-9011-B963C47700F4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT4_PhanLoaiTamGiac", "Buoi04\Buoi4_BaiTapCoBan\BT4_PhanLoaiTamGiac\BT4_PhanLoaiTamGiac.csproj", "{16E8ABEC-82B3-D10C-9011-B963C47700F4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT4_PhanLoaiTamGiacTest", "Buoi4\Buoi4_BaiTapCoBan\BT4_PhanLoaiTamGiacTest\BT4_PhanLoaiTamGiacTest.csproj", "{8C9FB29A-D9B9-1725-885D-F5A74687A52F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT4_PhanLoaiTamGiacTest", "Buoi04\Buoi4_BaiTapCoBan\BT4_PhanLoaiTamGiacTest\BT4_PhanLoaiTamGiacTest.csproj", "{8C9FB29A-D9B9-1725-885D-F5A74687A52F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT5_TinhChatSo", "Buoi4\Buoi4_BaiTapCoBan\BT5_TinhChatSo\BT5_TinhChatSo.csproj", "{4B972D01-7192-3C28-858A-9C36D58C1411}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT5_TinhChatSo", "Buoi04\Buoi4_BaiTapCoBan\BT5_TinhChatSo\BT5_TinhChatSo.csproj", "{4B972D01-7192-3C28-858A-9C36D58C1411}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT5_TinhChatSoTest", "Buoi4\Buoi4_BaiTapCoBan\BT5_TinhChatSoTest\BT5_TinhChatSoTest.csproj", "{8DCC88A4-03B9-D3DE-463E-3E36D9370484}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT5_TinhChatSoTest", "Buoi04\Buoi4_BaiTapCoBan\BT5_TinhChatSoTest\BT5_TinhChatSoTest.csproj", "{8DCC88A4-03B9-D3DE-463E-3E36D9370484}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Buoi4_BaiTapNangCao", "Buoi4_BaiTapNangCao", "{CA1661FC-9874-CE91-DAFA-05F7C4B51467}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT1_HePhuongTrinh", "Buoi4\Buoi4_BaiTapNangCao\BT1_HePhuongTrinh\BT1_HePhuongTrinh.csproj", "{A81BF8A2-16D9-FE48-AEE3-773C6E3EE341}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT1_HePhuongTrinh", "Buoi04\Buoi4_BaiTapNangCao\BT1_HePhuongTrinh\BT1_HePhuongTrinh.csproj", "{A81BF8A2-16D9-FE48-AEE3-773C6E3EE341}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT1_HePhuongTrinhTest", "Buoi4\Buoi4_BaiTapNangCao\BT1_HePhuongTrinhTest\BT1_HePhuongTrinhTest.csproj", "{919EE21D-8FF7-CE75-7026-9DF6DA5B6D76}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT1_HePhuongTrinhTest", "Buoi04\Buoi4_BaiTapNangCao\BT1_HePhuongTrinhTest\BT1_HePhuongTrinhTest.csproj", "{919EE21D-8FF7-CE75-7026-9DF6DA5B6D76}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT2_KiemTraNgayHopLe", "Buoi4\Buoi4_BaiTapNangCao\BT2_KiemTraNgayHopLe\BT2_KiemTraNgayHopLe.csproj", "{56A9EE05-8A8E-5C61-FD54-84D1D97D6C16}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT2_KiemTraNgayHopLe", "Buoi04\Buoi4_BaiTapNangCao\BT2_KiemTraNgayHopLe\BT2_KiemTraNgayHopLe.csproj", "{56A9EE05-8A8E-5C61-FD54-84D1D97D6C16}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT2_KiemTraNgayHopLeTest", "Buoi4\Buoi4_BaiTapNangCao\BT2_KiemTraNgayHopLeTest\BT2_KiemTraNgayHopLeTest.csproj", "{7ED01F82-9A4A-6101-1577-3E224E8A3CED}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT2_KiemTraNgayHopLeTest", "Buoi04\Buoi4_BaiTapNangCao\BT2_KiemTraNgayHopLeTest\BT2_KiemTraNgayHopLeTest.csproj", "{7ED01F82-9A4A-6101-1577-3E224E8A3CED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT3_TinhChatSo1", "Buoi4\Buoi4_BaiTapNangCao\BT3_TinhChatSo1\BT3_TinhChatSo1.csproj", "{1444E22B-E27F-4743-4903-295F8510C597}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT3_TinhChatSo1", "Buoi04\Buoi4_BaiTapNangCao\BT3_TinhChatSo1\BT3_TinhChatSo1.csproj", "{1444E22B-E27F-4743-4903-295F8510C597}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT3_TinhChatSo1Test", "Buoi4\Buoi4_BaiTapNangCao\BT3_TinhChatSo1Test\BT3_TinhChatSo1Test.csproj", "{28B48BFB-8679-65B4-662B-F177903A3DA2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT3_TinhChatSo1Test", "Buoi04\Buoi4_BaiTapNangCao\BT3_TinhChatSo1Test\BT3_TinhChatSo1Test.csproj", "{28B48BFB-8679-65B4-662B-F177903A3DA2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT4_GiaTriHamSoDoThi", "Buoi4\Buoi4_BaiTapNangCao\BT4_GiaTriHamSoDoThi\BT4_GiaTriHamSoDoThi.csproj", "{6E2EDAA8-7DB9-7F69-8F6A-6269AC645A53}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT4_GiaTriHamSoDoThi", "Buoi04\Buoi4_BaiTapNangCao\BT4_GiaTriHamSoDoThi\BT4_GiaTriHamSoDoThi.csproj", "{6E2EDAA8-7DB9-7F69-8F6A-6269AC645A53}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT4_GiaTriHamSoDoThiTest", "Buoi4\Buoi4_BaiTapNangCao\BT4_GiaTriHamSoDoThiTest\BT4_GiaTriHamSoDoThiTest.csproj", "{498258DC-4676-0BC0-8C50-522C8A95F7C0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT4_GiaTriHamSoDoThiTest", "Buoi04\Buoi4_BaiTapNangCao\BT4_GiaTriHamSoDoThiTest\BT4_GiaTriHamSoDoThiTest.csproj", "{498258DC-4676-0BC0-8C50-522C8A95F7C0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT5_PhuongTrinhBac3", "Buoi4\Buoi4_BaiTapNangCao\BT5_PhuongTrinhBac3\BT5_PhuongTrinhBac3.csproj", "{63FE6D23-7F29-6A5D-F85B-D6237EEC9A60}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT5_PhuongTrinhBac3", "Buoi04\Buoi4_BaiTapNangCao\BT5_PhuongTrinhBac3\BT5_PhuongTrinhBac3.csproj", "{63FE6D23-7F29-6A5D-F85B-D6237EEC9A60}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT5_PhuongTrinhBac3Test", "Buoi4\Buoi4_BaiTapNangCao\BT5_PhuongTrinhBac3Test\BT5_PhuongTrinhBac3Test.csproj", "{37DE433C-BD45-6F0E-70D9-22180ACD0003}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT5_PhuongTrinhBac3Test", "Buoi04\Buoi4_BaiTapNangCao\BT5_PhuongTrinhBac3Test\BT5_PhuongTrinhBac3Test.csproj", "{37DE433C-BD45-6F0E-70D9-22180ACD0003}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Buoi1_BaiTapNangCao", "Buoi1_BaiTapNangCao", "{9CB978A5-0A66-6DCB-BCFC-E9218BC93B40}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bai1", "Bai1", "{A95CF905-2779-1C39-405C-7E73DDCB91A4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai1_TinhKhoangCach", "Buoi1\Buoi1_BaiTapNangCao\Bai1\Bai1_TinhKhoangCach\Bai1_TinhKhoangCach.csproj", "{C6EE2042-53A2-F2BD-8673-A512CE65B94A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai1_TinhKhoangCach", "Buoi01\Buoi1_BaiTapNangCao\Bai1\Bai1_TinhKhoangCach\Bai1_TinhKhoangCach.csproj", "{C6EE2042-53A2-F2BD-8673-A512CE65B94A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai1_TinhKhoangCachTest", "Buoi1\Buoi1_BaiTapNangCao\Bai1\Bai1_TinhKhoangCachTest\Bai1_TinhKhoangCachTest.csproj", "{E959870E-66B2-88D2-B8F7-B8B0C8EEA344}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai1_TinhKhoangCachTest", "Buoi01\Buoi1_BaiTapNangCao\Bai1\Bai1_TinhKhoangCachTest\Bai1_TinhKhoangCachTest.csproj", "{E959870E-66B2-88D2-B8F7-B8B0C8EEA344}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bai2", "Bai2", "{B071B10C-4EF1-4C67-EEDC-F6BA1BA2FEDD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai2_DoSangRadian", "Buoi1\Buoi1_BaiTapNangCao\Bai2\Bai2_DoSangRadian\Bai2_DoSangRadian.csproj", "{F8E2F2E3-B6E1-D468-06D9-D038D3B01DC8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai2_DoSangRadian", "Buoi01\Buoi1_BaiTapNangCao\Bai2\Bai2_DoSangRadian\Bai2_DoSangRadian.csproj", "{F8E2F2E3-B6E1-D468-06D9-D038D3B01DC8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai2_DoSangRadianTest", "Buoi1\Buoi1_BaiTapNangCao\Bai2\Bai2_DoSangRadianTest\Bai2_DoSangRadianTest.csproj", "{AEE2149D-9382-217F-B575-7D032D23ACD0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai2_DoSangRadianTest", "Buoi01\Buoi1_BaiTapNangCao\Bai2\Bai2_DoSangRadianTest\Bai2_DoSangRadianTest.csproj", "{AEE2149D-9382-217F-B575-7D032D23ACD0}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bai3", "Bai3", "{B77E6A13-A8FD-8998-BE8F-1FC086C246AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai3_HamSo1", "Buoi1\Buoi1_BaiTapNangCao\Bai3\Bai3_HamSo1\Bai3_HamSo1.csproj", "{0B5F411E-F99C-A164-0079-60690D39C34C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai3_HamSo1", "Buoi01\Buoi1_BaiTapNangCao\Bai3\Bai3_HamSo1\Bai3_HamSo1.csproj", "{0B5F411E-F99C-A164-0079-60690D39C34C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai3_HamSo1Test", "Buoi1\Buoi1_BaiTapNangCao\Bai3\Bai3_HamSo1Test\Bai3_HamSo1Test.csproj", "{88A6446E-631B-B074-C9AF-C4E0195C8CB2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai3_HamSo1Test", "Buoi01\Buoi1_BaiTapNangCao\Bai3\Bai3_HamSo1Test\Bai3_HamSo1Test.csproj", "{88A6446E-631B-B074-C9AF-C4E0195C8CB2}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bai4", "Bai4", "{75A2E3B1-7D7B-A905-0799-7EC820CB00C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai4_TinhCan", "Buoi1\Buoi1_BaiTapNangCao\Bai4\Bai4_TinhCan\Bai4_TinhCan.csproj", "{7E6F1D17-F4FE-3E5F-1726-F9E45548EB95}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai4_TinhCan", "Buoi01\Buoi1_BaiTapNangCao\Bai4\Bai4_TinhCan\Bai4_TinhCan.csproj", "{7E6F1D17-F4FE-3E5F-1726-F9E45548EB95}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai4_TinhCanTest", "Buoi1\Buoi1_BaiTapNangCao\Bai4\Bai4_TinhCanTest\Bai4_TinhCanTest.csproj", "{F6D02EB6-9C65-B7F7-D4A2-2DBDDDBE58D0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai4_TinhCanTest", "Buoi01\Buoi1_BaiTapNangCao\Bai4\Bai4_TinhCanTest\Bai4_TinhCanTest.csproj", "{F6D02EB6-9C65-B7F7-D4A2-2DBDDDBE58D0}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bai5", "Bai5", "{DEBF400C-DF66-F18C-47C2-652F7EC0A8AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai5_DaoSo", "Buoi1\Buoi1_BaiTapNangCao\Bai5\Bai5_DaoSo\Bai5_DaoSo.csproj", "{AC5D6C2D-2007-D746-EE06-F142CBF577D0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai5_DaoSo", "Buoi01\Buoi1_BaiTapNangCao\Bai5\Bai5_DaoSo\Bai5_DaoSo.csproj", "{AC5D6C2D-2007-D746-EE06-F142CBF577D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai5_DaoSoTest", "Buoi1\Buoi1_BaiTapNangCao\Bai5\Bai5_DaoSoTest\Bai5_DaoSoTest.csproj", "{C0B9A54F-9FF8-AFB0-AB7F-2C17F2C3500E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai5_DaoSoTest", "Buoi01\Buoi1_BaiTapNangCao\Bai5\Bai5_DaoSoTest\Bai5_DaoSoTest.csproj", "{C0B9A54F-9FF8-AFB0-AB7F-2C17F2C3500E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bai5_BaiTapCoBan", "Bai5_BaiTapCoBan", "{C08BA3E4-D3A3-B286-4718-1EC0E3A9DC3B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bai1", "Bai1", "{C5EBCD47-DC0D-BDFB-4D48-E939DFF00F0B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai1_GiaiThua", "Buoi5\Bai5_BaiTapCoBan\Bai1\Bai1_GiaiThua\Bai1_GiaiThua.csproj", "{1D696005-C304-293E-6180-CB40FC07EC52}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai1_GiaiThua", "Buoi05\Bai5_BaiTapCoBan\Bai1\Bai1_GiaiThua\Bai1_GiaiThua.csproj", "{1D696005-C304-293E-6180-CB40FC07EC52}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai1_GiaoThuaTest", "Buoi5\Bai5_BaiTapCoBan\Bai1\Bai1_GiaoThuaTest\Bai1_GiaoThuaTest.csproj", "{86319CDB-3F29-DDA5-6664-70FBE4215316}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai1_GiaoThuaTest", "Buoi05\Bai5_BaiTapCoBan\Bai1\Bai1_GiaoThuaTest\Bai1_GiaoThuaTest.csproj", "{86319CDB-3F29-DDA5-6664-70FBE4215316}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bai2", "Bai2", "{C38A4417-06E2-2A4E-0BCE-55D16AFDC04E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai2_GiaTriBieuThuc", "Buoi5\Bai5_BaiTapCoBan\Bai2\Bai2_GiaTriBieuThuc\Bai2_GiaTriBieuThuc.csproj", "{F4E26FCE-4A13-85C1-F42E-80A12690943E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai2_GiaTriBieuThuc", "Buoi05\Bai5_BaiTapCoBan\Bai2\Bai2_GiaTriBieuThuc\Bai2_GiaTriBieuThuc.csproj", "{F4E26FCE-4A13-85C1-F42E-80A12690943E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai2_GiaTriBieuThucTest", "Buoi5\Bai5_BaiTapCoBan\Bai2\Bai2_GiaTriBieuThucTest\Bai2_GiaTriBieuThucTest.csproj", "{1605F64F-1E2F-928B-B3FD-ABA2E1112016}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai2_GiaTriBieuThucTest", "Buoi05\Bai5_BaiTapCoBan\Bai2\Bai2_GiaTriBieuThucTest\Bai2_GiaTriBieuThucTest.csproj", "{1605F64F-1E2F-928B-B3FD-ABA2E1112016}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bai3", "Bai3", "{6C04BC5A-3E3F-177B-9BA8-4397494C2539}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai3_TongPhanSo", "Buoi5\Bai5_BaiTapCoBan\Bai3\Bai3_TongPhanSo\Bai3_TongPhanSo.csproj", "{3CF97ACD-9683-6D6E-73B0-AFDE51F57470}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai3_TongPhanSo", "Buoi05\Bai5_BaiTapCoBan\Bai3\Bai3_TongPhanSo\Bai3_TongPhanSo.csproj", "{3CF97ACD-9683-6D6E-73B0-AFDE51F57470}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai3_TongPhanSoTest", "Buoi5\Bai5_BaiTapCoBan\Bai3\Bai3_TongPhanSoTest\Bai3_TongPhanSoTest.csproj", "{AECCFF58-7840-294C-D3FC-BB03E3EB09C0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai3_TongPhanSoTest", "Buoi05\Bai5_BaiTapCoBan\Bai3\Bai3_TongPhanSoTest\Bai3_TongPhanSoTest.csproj", "{AECCFF58-7840-294C-D3FC-BB03E3EB09C0}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bai5", "Bai5", "{4D62299F-D57C-9020-EA18-887A6E81C73D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai5_XuLyThucDon", "Buoi5\Bai5_BaiTapCoBan\Bai5\Bai5_XuLyThucDon\Bai5_XuLyThucDon.csproj", "{AEC25F5F-B5B2-63F4-D2BF-F38C4E045F32}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai5_XuLyThucDon", "Buoi05\Bai5_BaiTapCoBan\Bai5\Bai5_XuLyThucDon\Bai5_XuLyThucDon.csproj", "{AEC25F5F-B5B2-63F4-D2BF-F38C4E045F32}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai5_XuLyThucDonTest", "Buoi5\Bai5_BaiTapCoBan\Bai5\Bai5_XuLyThucDonTest\Bai5_XuLyThucDonTest.csproj", "{4F872974-75E8-BC30-0057-8120F1EE6171}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai5_XuLyThucDonTest", "Buoi05\Bai5_BaiTapCoBan\Bai5\Bai5_XuLyThucDonTest\Bai5_XuLyThucDonTest.csproj", "{4F872974-75E8-BC30-0057-8120F1EE6171}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bai5_BaiTapNangCao", "Bai5_BaiTapNangCao", "{1CC56247-6CBC-D302-3C7B-7F1CA9450D62}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bai1", "Bai1", "{51AC30D8-A0A8-CFB6-5A99-6B75C67C8968}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai1_LuyThua", "Buoi5\Bai5_BaiTapNangCao\Bai1\Bai1_LuyThua\Bai1_LuyThua.csproj", "{3C2DCBD3-6E46-1DE7-F772-AE16AFC510EE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai1_LuyThua", "Buoi05\Bai5_BaiTapNangCao\Bai1\Bai1_LuyThua\Bai1_LuyThua.csproj", "{3C2DCBD3-6E46-1DE7-F772-AE16AFC510EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai1_LuyThuaTest", "Buoi5\Bai5_BaiTapNangCao\Bai1\Bai1_LuyThuaTest\Bai1_LuyThuaTest.csproj", "{CB7FF7C0-905C-37FF-1B07-9E937D56E399}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai1_LuyThuaTest", "Buoi05\Bai5_BaiTapNangCao\Bai1\Bai1_LuyThuaTest\Bai1_LuyThuaTest.csproj", "{CB7FF7C0-905C-37FF-1B07-9E937D56E399}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bai3", "Bai3", "{8932BD11-3D26-EC94-B774-16F9A5317214}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai3_CosSin", "Buoi5\Bai5_BaiTapNangCao\Bai3\Bai3_CosSin\Bai3_CosSin.csproj", "{7CAA9E12-DAD7-871E-D057-2A908FB4A414}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai3_CosSin", "Buoi05\Bai5_BaiTapNangCao\Bai3\Bai3_CosSin\Bai3_CosSin.csproj", "{7CAA9E12-DAD7-871E-D057-2A908FB4A414}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai3_CosSinTest", "Buoi5\Bai5_BaiTapNangCao\Bai3\Bai3_CosSinTest\Bai3_CosSinTest.csproj", "{51111348-77FE-DD8A-3DDE-077BD63D8FE1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai3_CosSinTest", "Buoi05\Bai5_BaiTapNangCao\Bai3\Bai3_CosSinTest\Bai3_CosSinTest.csproj", "{51111348-77FE-DD8A-3DDE-077BD63D8FE1}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bai4", "Bai4", "{25BBED0E-26ED-86F5-8414-0FC597FFD4A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai4_TimSoLonNhat", "Buoi5\Bai5_BaiTapNangCao\Bai4\Bai4_TimSoLonNhat\Bai4_TimSoLonNhat.csproj", "{24D06333-AC4E-C0E6-D016-1E987AAE0311}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai4_TimSoLonNhat", "Buoi05\Bai5_BaiTapNangCao\Bai4\Bai4_TimSoLonNhat\Bai4_TimSoLonNhat.csproj", "{24D06333-AC4E-C0E6-D016-1E987AAE0311}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai4_TimSoLonNhatTest", "Buoi5\Bai5_BaiTapNangCao\Bai4\Bai4_TimSoLonNhatTest\Bai4_TimSoLonNhatTest.csproj", "{0D6F9FD0-CC73-BEA3-8E82-531CAB3CD830}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai4_TimSoLonNhatTest", "Buoi05\Bai5_BaiTapNangCao\Bai4\Bai4_TimSoLonNhatTest\Bai4_TimSoLonNhatTest.csproj", "{0D6F9FD0-CC73-BEA3-8E82-531CAB3CD830}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bai5", "Bai5", "{8EBBB472-6D35-5C8F-AB68-E97CE3776043}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai5_DienTich", "Buoi5\Bai5_BaiTapNangCao\Bai5\Bai5_DienTich\Bai5_DienTich.csproj", "{F35CE0BB-7F70-AD7B-C51D-3CAD7F494637}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai5_DienTich", "Buoi05\Bai5_BaiTapNangCao\Bai5\Bai5_DienTich\Bai5_DienTich.csproj", "{F35CE0BB-7F70-AD7B-C51D-3CAD7F494637}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai5_DienTichTest", "Buoi5\Bai5_BaiTapNangCao\Bai5\Bai5_DienTichTest\Bai5_DienTichTest.csproj", "{AB9CE981-198C-EA68-4D98-5A73CC05A3AE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai5_DienTichTest", "Buoi05\Bai5_BaiTapNangCao\Bai5\Bai5_DienTichTest\Bai5_DienTichTest.csproj", "{AB9CE981-198C-EA68-4D98-5A73CC05A3AE}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bai6_BaiTapCoBan", "Bai6_BaiTapCoBan", "{9DFF394C-A62A-9FF5-D6D8-4F54833ACCFA}"
 EndProject
@@ -275,27 +275,27 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bai1", "Bai1", "{E6346886-C
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bai1_InChu", "Bai1_InChu", "{FA0B2FD4-28E4-3803-20DA-DB844F27229F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai1", "Buoi6\Bai6_BaiTapCoBan\Bai1\Bai1_InChu\Bai1.csproj", "{F991AFCF-2781-1DCF-1D42-99F25CA20CC4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai1", "Buoi06\Bai6_BaiTapCoBan\Bai1\Bai1_InChu\Bai1.csproj", "{F991AFCF-2781-1DCF-1D42-99F25CA20CC4}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bai1_InChuTest", "Bai1_InChuTest", "{BE2485C3-0DB1-D08A-6490-003B1AD51B6A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ba1_InChuTest", "Buoi6\Bai6_BaiTapCoBan\Bai1\Bai1_InChuTest\Ba1_InChuTest.csproj", "{CF57A787-D60E-54BC-74D9-0D2F4BE3B8A5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ba1_InChuTest", "Buoi06\Bai6_BaiTapCoBan\Bai1\Bai1_InChuTest\Ba1_InChuTest.csproj", "{CF57A787-D60E-54BC-74D9-0D2F4BE3B8A5}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bai6_BaiTapNangCao", "Bai6_BaiTapNangCao", "{7C169EB0-B1C0-1FB1-A94D-5EB8D71BEC7E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bai2", "Bai2", "{CA100CFE-69CE-52B7-82FC-C4A03F840940}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai2_BangCuuChuong", "Buoi6\Bai6_BaiTapNangCao\Bai2\Bai2_BangCuuChuong\Bai2_BangCuuChuong.csproj", "{9ED6FB99-9FD6-4FF2-9020-46FD6BA96797}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai2_BangCuuChuong", "Buoi06\Bai6_BaiTapNangCao\Bai2\Bai2_BangCuuChuong\Bai2_BangCuuChuong.csproj", "{9ED6FB99-9FD6-4FF2-9020-46FD6BA96797}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bai3", "Bai3", "{9F07443F-4207-ECBE-DAA2-79CE67466B0B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai3_InLich", "Buoi6\Bai6_BaiTapNangCao\Bai3\Bai3_InLich\Bai3_InLich.csproj", "{A29303DE-B507-4D78-8A63-57E66DE4BD89}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai3_InLich", "Buoi06\Bai6_BaiTapNangCao\Bai3\Bai3_InLich\Bai3_InLich.csproj", "{A29303DE-B507-4D78-8A63-57E66DE4BD89}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bai4", "Bai4", "{54E80606-56DA-EEF1-BF82-598C27156221}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai4_Fibonacci", "Buoi6\Bai6_BaiTapNangCao\Bai4\Bai4_Fibonacci\Bai4_Fibonacci.csproj", "{DE30434C-70C6-4E03-9BD3-B05498E7C64E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai4_Fibonacci", "Buoi06\Bai6_BaiTapNangCao\Bai4\Bai4_Fibonacci\Bai4_Fibonacci.csproj", "{DE30434C-70C6-4E03-9BD3-B05498E7C64E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai2_BangCuuChuongTest", "Buoi6\Bai6_BaiTapNangCao\Bai2\Bai2_BangCuuChuongTest\Bai2_BangCuuChuongTest.csproj", "{02EF0AF6-8AB6-477F-9DA5-55201F2AD0D5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai2_BangCuuChuongTest", "Buoi06\Bai6_BaiTapNangCao\Bai2\Bai2_BangCuuChuongTest\Bai2_BangCuuChuongTest.csproj", "{02EF0AF6-8AB6-477F-9DA5-55201F2AD0D5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
