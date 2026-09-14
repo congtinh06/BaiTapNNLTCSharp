@@ -48,3 +48,4 @@ namespace MaxMin5So
         }
     }
 }
+
