@@ -20,3 +20,4 @@ double tienNuoc = TienNuoc.TinhTienNuoc(
 Console.WriteLine(
     $"So tien phai tra cho {soMetKhoi} m^3 tieu thu trong thang la {tienNuoc:F0} Đ."
 );
+

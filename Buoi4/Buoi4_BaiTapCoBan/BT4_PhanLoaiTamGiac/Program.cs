@@ -19,3 +19,4 @@ else
     Console.WriteLine($"Ba so ({a}, {b}, {c}) tao thanh duoc tam giac.");
     Console.WriteLine($"Tam giac tao thanh la {ketQua}.");
 }
+

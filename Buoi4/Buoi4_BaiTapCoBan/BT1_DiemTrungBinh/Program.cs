@@ -14,3 +14,4 @@ string xepLoai = DiemTrungBinh.XepLoai(diemTrungBinh);
 Console.WriteLine(
     $"Ban co diem trung binh {diemTrungBinh:F2} duoc xep loai {xepLoai}."
 );
+

@@ -6,3 +6,4 @@ double a = double.Parse(Console.ReadLine()!);
 double ketQua = GiaTriHamSoDoThi.TinhGiaTri(a);
 
 Console.WriteLine($"f({a}) = {ketQua}");
+

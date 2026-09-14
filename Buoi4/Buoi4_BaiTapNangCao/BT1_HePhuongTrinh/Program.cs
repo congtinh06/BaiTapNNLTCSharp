@@ -14,3 +14,4 @@ double f = double.Parse(input[5]);
 string ketQua = HePhuongTrinh.GiaiHe(a, b, c, d, e, f);
 
 Console.WriteLine(ketQua);
+

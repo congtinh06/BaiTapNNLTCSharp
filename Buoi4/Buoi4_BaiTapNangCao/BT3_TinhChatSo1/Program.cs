@@ -12,3 +12,4 @@ Console.WriteLine($"n co {soChuSo} chu so.");
 Console.WriteLine($"Tong cac chu so cua n = {tongChuSo}.");
 Console.WriteLine($"Chu so cuoi cua n = {chuSoCuoi}.");
 Console.WriteLine($"Chu so dau cua n = {chuSoDau}.");
+

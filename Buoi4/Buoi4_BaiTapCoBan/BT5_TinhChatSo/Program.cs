@@ -17,3 +17,4 @@ if (TinhChatSo.Co4ChuSoKhacNhau(n))
     Console.WriteLine($"{n} co 4 chu so khac nhau.");
 else
     Console.WriteLine($"{n} khong co 4 chu so khac nhau.");
+
