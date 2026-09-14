@@ -19,3 +19,4 @@ double C = double.Parse(heSo[2]);
 string ketQua = KiemTraTronThang.KiemTra(x, y, r, A, B, C);
 
 Console.WriteLine($"Ket qua: {ketQua}");
+

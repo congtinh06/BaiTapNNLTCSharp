@@ -6,3 +6,4 @@ int y = int.Parse(Console.ReadLine()!);
 
 int soNgay = SoNgayThang.TinhSoNgay(m, y);
 Console.WriteLine($"Thang {m} nam {y} co {soNgay} ngay");
+

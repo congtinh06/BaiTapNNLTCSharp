@@ -16,3 +16,4 @@ else
 {
     Console.WriteLine("Diem khong nam trong tam giac.");
 }
+
