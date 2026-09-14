@@ -8,11 +8,11 @@ namespace DoiSangGiay.App
         public static void Main(string[] args)
         {
             Console.Write("Nhap so gio:");
-            int h = int.Parse(Console.ReadLine());
+            int h = int.Parse(Console.ReadLine() ?? "0");
             Console.Write("Nhap so phut: ");
-            int m = int.Parse(Console.ReadLine());
+            int m = int.Parse(Console.ReadLine() ?? "0");
             Console.Write("Nhap so giay: ");
-            int s = int.Parse(Console.ReadLine());
+            int s = int.Parse(Console.ReadLine() ?? "0");
 
             int tongGiay = ChuyenDoi.TinhTongGiay(h, m, s);
 
