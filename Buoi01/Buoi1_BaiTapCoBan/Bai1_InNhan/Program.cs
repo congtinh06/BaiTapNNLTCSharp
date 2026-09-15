@@ -7,11 +7,13 @@ namespace InNhan.App
     {
         public static void Main(string[] args)
         {
-            // Goi ham tu thu vien InNhan, roi moi in ra man hinh
+            // Goi ham tu thu vien InNhan, roi moi in ra man hinh.
             Console.WriteLine(Nhan.LayNoiDungNhan());
             Console.Read();
         }
     }
 }
+
+
 
 
