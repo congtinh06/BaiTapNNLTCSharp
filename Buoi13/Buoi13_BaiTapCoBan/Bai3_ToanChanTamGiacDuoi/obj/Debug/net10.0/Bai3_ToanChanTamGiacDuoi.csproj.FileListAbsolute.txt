@@ -1,0 +1,14 @@
+E:\Downloads\code\C#\Buoi13\Buoi13_BaiTapCoBan\Bai3_ToanChanTamGiacDuoi\bin\Debug\net10.0\Bai3_ToanChanTamGiacDuoi.exe
+E:\Downloads\code\C#\Buoi13\Buoi13_BaiTapCoBan\Bai3_ToanChanTamGiacDuoi\bin\Debug\net10.0\Bai3_ToanChanTamGiacDuoi.deps.json
+E:\Downloads\code\C#\Buoi13\Buoi13_BaiTapCoBan\Bai3_ToanChanTamGiacDuoi\bin\Debug\net10.0\Bai3_ToanChanTamGiacDuoi.runtimeconfig.json
+E:\Downloads\code\C#\Buoi13\Buoi13_BaiTapCoBan\Bai3_ToanChanTamGiacDuoi\bin\Debug\net10.0\Bai3_ToanChanTamGiacDuoi.dll
+E:\Downloads\code\C#\Buoi13\Buoi13_BaiTapCoBan\Bai3_ToanChanTamGiacDuoi\bin\Debug\net10.0\Bai3_ToanChanTamGiacDuoi.pdb
+E:\Downloads\code\C#\Buoi13\Buoi13_BaiTapCoBan\Bai3_ToanChanTamGiacDuoi\obj\Debug\net10.0\Bai3_ToanChanTamGiacDuoi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Downloads\code\C#\Buoi13\Buoi13_BaiTapCoBan\Bai3_ToanChanTamGiacDuoi\obj\Debug\net10.0\Bai3_ToanChanTamGiacDuoi.AssemblyInfoInputs.cache
+E:\Downloads\code\C#\Buoi13\Buoi13_BaiTapCoBan\Bai3_ToanChanTamGiacDuoi\obj\Debug\net10.0\Bai3_ToanChanTamGiacDuoi.AssemblyInfo.cs
+E:\Downloads\code\C#\Buoi13\Buoi13_BaiTapCoBan\Bai3_ToanChanTamGiacDuoi\obj\Debug\net10.0\Bai3_ToanChanTamGiacDuoi.csproj.CoreCompileInputs.cache
+E:\Downloads\code\C#\Buoi13\Buoi13_BaiTapCoBan\Bai3_ToanChanTamGiacDuoi\obj\Debug\net10.0\Bai3_ToanChanTamGiacDuoi.dll
+E:\Downloads\code\C#\Buoi13\Buoi13_BaiTapCoBan\Bai3_ToanChanTamGiacDuoi\obj\Debug\net10.0\refint\Bai3_ToanChanTamGiacDuoi.dll
+E:\Downloads\code\C#\Buoi13\Buoi13_BaiTapCoBan\Bai3_ToanChanTamGiacDuoi\obj\Debug\net10.0\Bai3_ToanChanTamGiacDuoi.pdb
+E:\Downloads\code\C#\Buoi13\Buoi13_BaiTapCoBan\Bai3_ToanChanTamGiacDuoi\obj\Debug\net10.0\Bai3_ToanChanTamGiacDuoi.genruntimeconfig.cache
+E:\Downloads\code\C#\Buoi13\Buoi13_BaiTapCoBan\Bai3_ToanChanTamGiacDuoi\obj\Debug\net10.0\ref\Bai3_ToanChanTamGiacDuoi.dll

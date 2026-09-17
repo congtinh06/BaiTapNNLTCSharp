@@ -1,0 +1,14 @@
+E:\Downloads\code\C#\Buoi13\Buoi13_BaiTapCoBan\Bai5_InCacCheoTheoHinh\bin\Debug\net10.0\Bai5_InCacCheoTheoHinh.exe
+E:\Downloads\code\C#\Buoi13\Buoi13_BaiTapCoBan\Bai5_InCacCheoTheoHinh\bin\Debug\net10.0\Bai5_InCacCheoTheoHinh.deps.json
+E:\Downloads\code\C#\Buoi13\Buoi13_BaiTapCoBan\Bai5_InCacCheoTheoHinh\bin\Debug\net10.0\Bai5_InCacCheoTheoHinh.runtimeconfig.json
+E:\Downloads\code\C#\Buoi13\Buoi13_BaiTapCoBan\Bai5_InCacCheoTheoHinh\bin\Debug\net10.0\Bai5_InCacCheoTheoHinh.dll
+E:\Downloads\code\C#\Buoi13\Buoi13_BaiTapCoBan\Bai5_InCacCheoTheoHinh\bin\Debug\net10.0\Bai5_InCacCheoTheoHinh.pdb
+E:\Downloads\code\C#\Buoi13\Buoi13_BaiTapCoBan\Bai5_InCacCheoTheoHinh\obj\Debug\net10.0\Bai5_InCacCheoTheoHinh.GeneratedMSBuildEditorConfig.editorconfig
+E:\Downloads\code\C#\Buoi13\Buoi13_BaiTapCoBan\Bai5_InCacCheoTheoHinh\obj\Debug\net10.0\Bai5_InCacCheoTheoHinh.AssemblyInfoInputs.cache
+E:\Downloads\code\C#\Buoi13\Buoi13_BaiTapCoBan\Bai5_InCacCheoTheoHinh\obj\Debug\net10.0\Bai5_InCacCheoTheoHinh.AssemblyInfo.cs
+E:\Downloads\code\C#\Buoi13\Buoi13_BaiTapCoBan\Bai5_InCacCheoTheoHinh\obj\Debug\net10.0\Bai5_InCacCheoTheoHinh.csproj.CoreCompileInputs.cache
+E:\Downloads\code\C#\Buoi13\Buoi13_BaiTapCoBan\Bai5_InCacCheoTheoHinh\obj\Debug\net10.0\Bai5_InCacCheoTheoHinh.dll
+E:\Downloads\code\C#\Buoi13\Buoi13_BaiTapCoBan\Bai5_InCacCheoTheoHinh\obj\Debug\net10.0\refint\Bai5_InCacCheoTheoHinh.dll
+E:\Downloads\code\C#\Buoi13\Buoi13_BaiTapCoBan\Bai5_InCacCheoTheoHinh\obj\Debug\net10.0\Bai5_InCacCheoTheoHinh.pdb
+E:\Downloads\code\C#\Buoi13\Buoi13_BaiTapCoBan\Bai5_InCacCheoTheoHinh\obj\Debug\net10.0\Bai5_InCacCheoTheoHinh.genruntimeconfig.cache
+E:\Downloads\code\C#\Buoi13\Buoi13_BaiTapCoBan\Bai5_InCacCheoTheoHinh\obj\Debug\net10.0\ref\Bai5_InCacCheoTheoHinh.dll

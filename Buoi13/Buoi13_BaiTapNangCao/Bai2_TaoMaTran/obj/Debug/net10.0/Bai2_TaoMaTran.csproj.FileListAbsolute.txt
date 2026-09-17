@@ -1,0 +1,14 @@
+E:\Downloads\code\C#\Buoi13\Buoi13_BaiTapNangCao\Bai2_TaoMaTran\bin\Debug\net10.0\Bai2_TaoMaTran.exe
+E:\Downloads\code\C#\Buoi13\Buoi13_BaiTapNangCao\Bai2_TaoMaTran\bin\Debug\net10.0\Bai2_TaoMaTran.deps.json
+E:\Downloads\code\C#\Buoi13\Buoi13_BaiTapNangCao\Bai2_TaoMaTran\bin\Debug\net10.0\Bai2_TaoMaTran.runtimeconfig.json
+E:\Downloads\code\C#\Buoi13\Buoi13_BaiTapNangCao\Bai2_TaoMaTran\bin\Debug\net10.0\Bai2_TaoMaTran.dll
+E:\Downloads\code\C#\Buoi13\Buoi13_BaiTapNangCao\Bai2_TaoMaTran\bin\Debug\net10.0\Bai2_TaoMaTran.pdb
+E:\Downloads\code\C#\Buoi13\Buoi13_BaiTapNangCao\Bai2_TaoMaTran\obj\Debug\net10.0\Bai2_TaoMaTran.GeneratedMSBuildEditorConfig.editorconfig
+E:\Downloads\code\C#\Buoi13\Buoi13_BaiTapNangCao\Bai2_TaoMaTran\obj\Debug\net10.0\Bai2_TaoMaTran.AssemblyInfoInputs.cache
+E:\Downloads\code\C#\Buoi13\Buoi13_BaiTapNangCao\Bai2_TaoMaTran\obj\Debug\net10.0\Bai2_TaoMaTran.AssemblyInfo.cs
+E:\Downloads\code\C#\Buoi13\Buoi13_BaiTapNangCao\Bai2_TaoMaTran\obj\Debug\net10.0\Bai2_TaoMaTran.csproj.CoreCompileInputs.cache
+E:\Downloads\code\C#\Buoi13\Buoi13_BaiTapNangCao\Bai2_TaoMaTran\obj\Debug\net10.0\Bai2_TaoMaTran.dll
+E:\Downloads\code\C#\Buoi13\Buoi13_BaiTapNangCao\Bai2_TaoMaTran\obj\Debug\net10.0\refint\Bai2_TaoMaTran.dll
+E:\Downloads\code\C#\Buoi13\Buoi13_BaiTapNangCao\Bai2_TaoMaTran\obj\Debug\net10.0\Bai2_TaoMaTran.pdb
+E:\Downloads\code\C#\Buoi13\Buoi13_BaiTapNangCao\Bai2_TaoMaTran\obj\Debug\net10.0\Bai2_TaoMaTran.genruntimeconfig.cache
+E:\Downloads\code\C#\Buoi13\Buoi13_BaiTapNangCao\Bai2_TaoMaTran\obj\Debug\net10.0\ref\Bai2_TaoMaTran.dll

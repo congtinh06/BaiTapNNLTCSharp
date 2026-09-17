@@ -1,0 +1,14 @@
+E:\Downloads\code\C#\Buoi13\Buoi13_BaiTapCoBan\Bai2_InTamGiacDuoiChinhPhu\obj\Debug\net10.0\Bai2_InTamGiacDuoiChinhPhu.GeneratedMSBuildEditorConfig.editorconfig
+E:\Downloads\code\C#\Buoi13\Buoi13_BaiTapCoBan\Bai2_InTamGiacDuoiChinhPhu\obj\Debug\net10.0\Bai2_InTamGiacDuoiChinhPhu.AssemblyInfoInputs.cache
+E:\Downloads\code\C#\Buoi13\Buoi13_BaiTapCoBan\Bai2_InTamGiacDuoiChinhPhu\obj\Debug\net10.0\Bai2_InTamGiacDuoiChinhPhu.AssemblyInfo.cs
+E:\Downloads\code\C#\Buoi13\Buoi13_BaiTapCoBan\Bai2_InTamGiacDuoiChinhPhu\obj\Debug\net10.0\Bai2_InTamGiacDuoiChinhPhu.csproj.CoreCompileInputs.cache
+E:\Downloads\code\C#\Buoi13\Buoi13_BaiTapCoBan\Bai2_InTamGiacDuoiChinhPhu\bin\Debug\net10.0\Bai2_InTamGiacDuoiChinhPhu.exe
+E:\Downloads\code\C#\Buoi13\Buoi13_BaiTapCoBan\Bai2_InTamGiacDuoiChinhPhu\bin\Debug\net10.0\Bai2_InTamGiacDuoiChinhPhu.deps.json
+E:\Downloads\code\C#\Buoi13\Buoi13_BaiTapCoBan\Bai2_InTamGiacDuoiChinhPhu\bin\Debug\net10.0\Bai2_InTamGiacDuoiChinhPhu.runtimeconfig.json
+E:\Downloads\code\C#\Buoi13\Buoi13_BaiTapCoBan\Bai2_InTamGiacDuoiChinhPhu\bin\Debug\net10.0\Bai2_InTamGiacDuoiChinhPhu.dll
+E:\Downloads\code\C#\Buoi13\Buoi13_BaiTapCoBan\Bai2_InTamGiacDuoiChinhPhu\bin\Debug\net10.0\Bai2_InTamGiacDuoiChinhPhu.pdb
+E:\Downloads\code\C#\Buoi13\Buoi13_BaiTapCoBan\Bai2_InTamGiacDuoiChinhPhu\obj\Debug\net10.0\Bai2_InTamGiacDuoiChinhPhu.dll
+E:\Downloads\code\C#\Buoi13\Buoi13_BaiTapCoBan\Bai2_InTamGiacDuoiChinhPhu\obj\Debug\net10.0\refint\Bai2_InTamGiacDuoiChinhPhu.dll
+E:\Downloads\code\C#\Buoi13\Buoi13_BaiTapCoBan\Bai2_InTamGiacDuoiChinhPhu\obj\Debug\net10.0\Bai2_InTamGiacDuoiChinhPhu.pdb
+E:\Downloads\code\C#\Buoi13\Buoi13_BaiTapCoBan\Bai2_InTamGiacDuoiChinhPhu\obj\Debug\net10.0\Bai2_InTamGiacDuoiChinhPhu.genruntimeconfig.cache
+E:\Downloads\code\C#\Buoi13\Buoi13_BaiTapCoBan\Bai2_InTamGiacDuoiChinhPhu\obj\Debug\net10.0\ref\Bai2_InTamGiacDuoiChinhPhu.dll

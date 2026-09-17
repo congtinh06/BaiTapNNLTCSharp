@@ -1,0 +1,14 @@
+E:\Downloads\code\C#\Buoi13\Buoi13_BaiTapNangCao\Bai3_XoanOc\bin\Debug\net10.0\Bai3_XoanOc.exe
+E:\Downloads\code\C#\Buoi13\Buoi13_BaiTapNangCao\Bai3_XoanOc\bin\Debug\net10.0\Bai3_XoanOc.deps.json
+E:\Downloads\code\C#\Buoi13\Buoi13_BaiTapNangCao\Bai3_XoanOc\bin\Debug\net10.0\Bai3_XoanOc.runtimeconfig.json
+E:\Downloads\code\C#\Buoi13\Buoi13_BaiTapNangCao\Bai3_XoanOc\bin\Debug\net10.0\Bai3_XoanOc.dll
+E:\Downloads\code\C#\Buoi13\Buoi13_BaiTapNangCao\Bai3_XoanOc\bin\Debug\net10.0\Bai3_XoanOc.pdb
+E:\Downloads\code\C#\Buoi13\Buoi13_BaiTapNangCao\Bai3_XoanOc\obj\Debug\net10.0\Bai3_XoanOc.GeneratedMSBuildEditorConfig.editorconfig
+E:\Downloads\code\C#\Buoi13\Buoi13_BaiTapNangCao\Bai3_XoanOc\obj\Debug\net10.0\Bai3_XoanOc.AssemblyInfoInputs.cache
+E:\Downloads\code\C#\Buoi13\Buoi13_BaiTapNangCao\Bai3_XoanOc\obj\Debug\net10.0\Bai3_XoanOc.AssemblyInfo.cs
+E:\Downloads\code\C#\Buoi13\Buoi13_BaiTapNangCao\Bai3_XoanOc\obj\Debug\net10.0\Bai3_XoanOc.csproj.CoreCompileInputs.cache
+E:\Downloads\code\C#\Buoi13\Buoi13_BaiTapNangCao\Bai3_XoanOc\obj\Debug\net10.0\Bai3_XoanOc.dll
+E:\Downloads\code\C#\Buoi13\Buoi13_BaiTapNangCao\Bai3_XoanOc\obj\Debug\net10.0\refint\Bai3_XoanOc.dll
+E:\Downloads\code\C#\Buoi13\Buoi13_BaiTapNangCao\Bai3_XoanOc\obj\Debug\net10.0\Bai3_XoanOc.pdb
+E:\Downloads\code\C#\Buoi13\Buoi13_BaiTapNangCao\Bai3_XoanOc\obj\Debug\net10.0\Bai3_XoanOc.genruntimeconfig.cache
+E:\Downloads\code\C#\Buoi13\Buoi13_BaiTapNangCao\Bai3_XoanOc\obj\Debug\net10.0\ref\Bai3_XoanOc.dll
